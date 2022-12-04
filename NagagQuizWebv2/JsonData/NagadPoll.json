@@ -1,0 +1,95 @@
+{
+  "status": 200,
+  "message": "3 questions found.",
+  "matchToken": null,
+  "data": [
+    {
+      "questionId": 641,
+      "question": "১) নগদ অ্যাপ থেকে ক্যাশআউট চার্জ কতো ?",
+      "isActive": true,
+      "quizCategoryId": 3,
+      "quizType": 3,
+      "onDate": "2022-11-17T00:00:00",
+      "questionScore": 1,
+      "imageLocation": null,
+      "choices": [
+        {
+          "choiceId": 2461,
+          "description": "৳ ২০"
+        },
+        {
+          "choiceId": 2460,
+          "description": "৳ ১৮.৫"
+        },
+        {
+          "choiceId": 2459,
+          "description": "৳ ৯.৯৯"
+        },
+        {
+          "choiceId": 2458,
+          "description": "৳ ১৬"
+        }
+      ],
+      "answeredToday": false
+    },
+    {
+      "questionId": 642,
+      "question": "২) নগদে আসলে মোবাইল রিচার্জে সর্বোচ্চ কত টাকা ক্যাশব্যাক পাওয়া যাবে ?",
+      "isActive": true,
+      "quizCategoryId": 3,
+      "quizType": 3,
+      "onDate": "2022-11-17T00:00:00",
+      "questionScore": 1,
+      "imageLocation": null,
+      "choices": [
+        {
+          "choiceId": 2463,
+          "description": "৳ ২০০"
+        },
+        {
+          "choiceId": 2464,
+          "description": " ৳ ১০০০"
+        },
+        {
+          "choiceId": 2462,
+          "description": "৳ ১০০"
+        },
+        {
+          "choiceId": 2465,
+          "description": "৳ ৮০০"
+        }
+      ],
+      "answeredToday": false
+    },
+    {
+      "questionId": 643,
+      "question": "৩) নগদে একাউন্ট খুলে প্রথমবার অ্যাপ লগ ইনে কত টাকা বোনাস পাওয়া যাবে?   ",
+      "isActive": true,
+      "quizCategoryId": 3,
+      "quizType": 3,
+      "onDate": "2022-11-17T00:00:00",
+      "questionScore": 1,
+      "imageLocation": null,
+      "choices": [
+        {
+          "choiceId": 2468,
+          "description": "৳ ৫"
+        },
+        {
+          "choiceId": 2469,
+          "description": "৳ ১০"
+        },
+        {
+          "choiceId": 2467,
+          "description": "৳ ১৫"
+        },
+        {
+          "choiceId": 2466,
+          "description": "৳ ২৫"
+        }
+      ],
+      "answeredToday": false
+    }
+  ],
+  "error": null
+}
