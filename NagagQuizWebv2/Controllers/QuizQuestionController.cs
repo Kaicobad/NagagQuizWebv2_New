@@ -42,7 +42,59 @@ namespace NagagQuizWebv2.Controllers
         {
             return list.OrderBy(x => Guid.NewGuid()).Take(elementsCount).ToList();
         }
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
+        {
+            List<QuizQuestionModel> aList =  new List<QuizQuestionModel>();
+
+            List<QuizQuestionModel> QuestionQuiz = new List<QuizQuestionModel>();
+            List<QuizQuestionModel> ImageQuiz = new List<QuizQuestionModel>();
+            List<QuizQuestionModel> ViewQuestionList = new List<QuizQuestionModel>();
+
+            using (StreamReader r = new StreamReader(@"JsonData/QuizQuestion.json"))
+            {
+                string json = r.ReadToEnd();
+                ResponseDataCustom<List<QuizQuestionModel>> con = JsonConvert.DeserializeObject<ResponseDataCustom<List<QuizQuestionModel>>>(json);
+
+                aList = con.data;
+
+                foreach (QuizQuestionModel item in aList)
+                {
+                    if (item.quizType == 1)
+                    {
+                        QuestionQuiz.Add(item);
+                    }
+                    if (item.quizType == 2)
+                    {
+                        ImageQuiz.Add(item);
+                    }
+                }
+
+                var randomQuestionList =  GetRandomElements(QuestionQuiz, 3);
+
+                foreach (var item in randomQuestionList)
+                {
+                    ViewQuestionList.Add(item);
+                }
+
+                var randomImageQuestionList = GetRandomElements(ImageQuiz, 2);
+                foreach (var item in randomImageQuestionList)
+                {
+                    ViewQuestionList.Add(item);
+                }
+
+
+                foreach (QuizQuestionModel items in aList)
+                {
+                    int questionScore = Convert.ToInt32(items.questionScore);
+                    ViewBag.Qmark = questionScore;
+                    break;
+                }
+                ViewBag.quentions = ViewQuestionList;
+                ViewBag.quizTime = Convert.ToString(DateTime.Now);
+            }
+            return View("Index"); ;
+        }
+        public async Task<IActionResult> GetQuiz()
         {
             List<QuizQuestionModel> aList = new List<QuizQuestionModel>();
 
@@ -94,7 +146,6 @@ namespace NagagQuizWebv2.Controllers
             }
             return View("Index"); ;
         }
-
         //[HttpGet]
         //public async Task<IActionResult> Index()
         //{

@@ -228,7 +228,7 @@
             measurementId: "G-D2ZTW9E4TZ"
         };
 
-        // Initialize Firebase
+        // Initialize Firebased
         const app = initializeApp(firebaseConfig);
         const analytics = getAnalytics(app);
     </script>
@@ -241,7 +241,8 @@
         $(document).ready(function () {
             LiveScore();
         });
-        function ScoreDetails() {
+        function ScoreDetails() 
+        {
             $.ajax({
                 method: "GET",
                 async: true,
@@ -251,7 +252,8 @@
                         $('#todaysBestScore').text("আজকের পয়েন্ট : " + response.totalScore);
                     }
                 },
-                complete: function () {
+                complete: function () 
+                {
                     $('.tobng').each(function () {
                         var currentElement = $(this);
                         var value = currentElement.html().trim(); // if it is an input/select/textarea field

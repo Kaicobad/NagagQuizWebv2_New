@@ -1,5 +1,4 @@
 ﻿<!DOCTYPE html>
-<!DOCTYPE html>
 
 <html>
 <head>
@@ -11,15 +10,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" asp-append-version="true" />
 
     <!-- Google Tag Manager -->
-    <script>
-        (function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({
-                'gtm.start':
-                    new Date().getTime(), event: 'gtm.js'
-            }); var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-TZNZHFP');</script>
+    
     <!-- End Google Tag Manager -->
     <style>
         body, html {
@@ -30,12 +21,6 @@
    
 </head>
 <body style ="background-color: #F8F8F8;">
-    <!-- Google Tag Manager (noscript) -->
-    <noscript>
-        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TZNZHFP"
-                height="0" width="0" style="display:none;visibility:hidden"></iframe>
-    </noscript>
-    <!-- End Google Tag Manager (noscript) -->
     <header >
         <nav class="navbar" style="position: relative;display: flex;flex-wrap: wrap;align-items: center;justify-content: space-between;padding-top: 16px;padding-bottom: 16px;background-color: #fff;">
             <div class="container-fluid" >
@@ -64,29 +49,7 @@
     @await RenderSectionAsync("Scripts", required: false)
 
     <!-- Add Firebase Analytics-->
-    <script type="module">
-        // Import the functions you need from the SDKs you need
-        import { initializeApp } from "https://www.gstatic.com/firebasejs/9.14.0/firebase-app.js";
-        import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.14.0/firebase-analytics.js";
-        // TODO: Add SDKs for Firebase products that you want to use
-        // https://firebase.google.com/docs/web/setup#available-libraries
-
-        // Your web app's Firebase configuration
-        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-        const firebaseConfig = {
-            apiKey: "AIzaSyCL2PQa9372-nibzAN4aKs_lQmOo5HqqBM",
-            authDomain: "nagazquizweb.firebaseapp.com",
-            projectId: "nagazquizweb",
-            storageBucket: "nagazquizweb.appspot.com",
-            messagingSenderId: "1040360646595",
-            appId: "1:1040360646595:web:781a30a652697479fa3f76",
-            measurementId: "G-D2ZTW9E4TZ"
-        };
-
-        // Initialize Firebase
-        const app = initializeApp(firebaseConfig);
-        const analytics = getAnalytics(app);
-    </script>
+    
     <!--End Firebase Analytics-->
 
     <script>

@@ -1,0 +1,183 @@
+﻿@using NagagQuizWebv2.Viewmodels
+@{
+    Layout = "_QuizLayout2";
+    var Questions = ViewBag.quentions;
+}
+<div class="counter" style="margin-top: 15px;" id="counterdiv">
+    <ul style="padding-left:0px">
+        <li class="list-group-item" style="   margin-top: 9px;flex-direction: row;align-items: center;padding: 10px 16px;gap: 8px;height: 44px;background: #FFFFFF;box-shadow: 1px 2px 6px rgb(0 0 0 / 5%);border-radius: 30px;flex: none;order: 0;flex-grow: 1;">
+            <div class="row">
+                <div class="col-2">
+                    <img src="~/pagecontents/questions/timebarcontents/clock.svg" style="float:right" />
+                </div>
+                <div class="col-7">
+                    <div class="progress" style="height: 3px;margin:10px">
+                        <div id="progress-div" class="progress-bar" role="progressbar" style="width: 20%; background-color: #D0392C;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div id="countdown">
+                    </div>
+                </div>
+            </div>
+        </li>
+    </ul>
+</div>
+
+@{
+    int indx = 0;
+    string displayValue = "";
+    int questionLength = Questions.Count;
+    int Qmark = ViewBag.Qmark;
+}
+
+<div id="nextLoader" style="text-align: center;display:none;margin-top:20px">
+    <div class="spinner-border" role="status" style="color:rgb(208, 57, 44)">
+    </div>
+</div>
+
+@foreach (var items in Questions)
+{
+    indx++;
+    if (indx > 1)
+    {
+        displayValue = "none";
+    }
+
+    <div id="quizQuestion_@indx" style="display:@displayValue">
+        <div class="row" style="display: flex;flex-direction: row;align-items: flex-start;padding: 0px;">
+            @if (items.quizType == 2)
+            {
+                <div class="Qimage">
+                    <img src="@items.imageLocation" style="width: 100%;height: 200px;padding: 20px; border-radius:35px" />
+                </div>
+            }
+            <div class="col-2">
+                <h4 class="tobng" style="color: #B8B8B8;font-weight: 600;font-size: 16px; float: right">@indx/5</h4>
+            </div>
+            <div class="col-10">
+                <h4 style="height: 61px;font-family: sans-serif;font-style: normal;font-weight: 400;font-size: 16px;align-items: center;color: #0D1A2D;">
+                    @items.question
+                </h4>
+            </div>
+        </div>
+        @foreach (var item in items.choices)
+        {
+            <ul class="list-group">
+                <li id="dsa_@indx" onclick="SubmitAnserV2(@indx,@item.choiceId,@item.isCorrect.ToString().ToLower(),@items.questionId,@questionLength,@Qmark)" class="list-group-item list-group-item-action" style="border-radius: 8px;margin-bottom:2%; color: #666666;background: #FFFFFF;box-shadow: 1px 2px 6px rgb(0 0 0 / 5%);font-weight: 600;font-size: 16px;">@item.description</li>
+            </ul>
+        }
+    </div>
+}
+
+
+
+<div class="row m-0 bottom_nav fixed-bottom" style="box-shadow:none; background-color:inherit;  ">
+
+    <div class="text-center" style="width: 166px;
+    height: 20px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    align-items: center;
+    color: #B8B8B8;
+    flex: none;
+    margin-left: 30%;
+    margin-top: 10%;">
+        <img src="~/pagecontents/landingpage/clickfinger.svg" />
+        Tap on the right answer
+    </div>
+</div>
+
+@*<input type="text" value="@ViewBag.quizTime" id="mtachTk"  />*@
+
+
+@section Scripts{
+    <script>
+        var subQu = [];
+        $(document).ready(function () {
+            var currentProgress = 0;
+            var timeleft = 22;
+            var bar = document.getElementById("progress-div");
+            bar.style.width = currentProgress + "%";
+            var downloadTimer = setInterval(function () {
+                if (timeleft <= 0) {
+                    clearInterval(downloadTimer);
+                    SubmitMatchResult();
+                } else {
+                    currentProgress = currentProgress + 4;
+                    bar.style.width = currentProgress + "%"
+                    document.getElementById("countdown").innerHTML = "00:" + timeleft;
+                }
+                timeleft -= 1;
+            }, 1000);
+        });
+
+        function SubmitAnserV2(index, choiceId, isCorrect, questionId, questionlength, Qmark) {
+            var newSub = {
+                'questionId': questionId,
+                'choiceId': choiceId,
+                'isCorrect': isCorrect
+            };
+            var nextIndex = index + 1;
+            if (nextIndex > questionlength) {
+                $('#quizQuestion_' + index).hide();
+                $('#quizQuestion_' + nextIndex).show();
+                subQu.push(newSub);
+                SubmitMatchResult();
+            } else {
+                $('#quizQuestion_' + index).hide();
+                $('#quizQuestion_' + nextIndex).show();
+                subQu.push(newSub);
+
+            }
+        }
+
+        function SubmitMatchResult() {
+            var jsobBody =
+            {
+                'quizStartTime': '@ViewBag.quizTime',
+                'matchResultChoicePairs': subQu
+            };
+            var dst = JSON.stringify(jsobBody);
+            console.log(dst);
+            $.ajax({
+                type: 'POST',
+                dataType: 'JSON',
+                contentType: 'application/json; charset=utf-8',
+                url: "QuizQuestion/QuizSubmitQ",
+                data: JSON.stringify(jsobBody),
+                async: true,
+                beforeSend: function () {
+                    $('#nextLoader').show();
+                    $('#counterdiv').hide();
+                },
+                success: function (response) {
+                    $('#nextLoader').hide();
+                    if (response == null) {
+                        var url = '@Url.Action("Index", "Home")';
+                        window.location.href = url;
+                    } else {
+                        var score = response.score;
+                        var timeInMilliseconds = response.timeInMilliseconds;
+                        var numberOfCorrectChoices = response.numberOfCorrectChoices;
+
+                        var url = '@Url.Action("QuizResult", "QuizQuestion")';
+                        url += '?score=' + score + '&timeInMilliseconds=' + timeInMilliseconds + '&numberOfCorrectChoices=' + numberOfCorrectChoices;
+                        window.location.href = url;
+                    }
+                },
+                error: function () {
+                    $('#nextLoader').hide();
+                    var url = '@Url.Action("Index", "Home")';
+                    window.location.href = url;
+                }
+            });
+        }
+
+    </script>
+}
+
+
+
