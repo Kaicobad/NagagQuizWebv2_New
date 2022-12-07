@@ -1,6 +1,6 @@
 {
   "status": 200,
-  "message": "282 questions found.",
+  "message": "542 questions found.",
   "data": [
     {
       "questionId": 142,
@@ -8176,6 +8176,7546 @@
         {
           "choiceId": 2469,
           "description": "৳ ১০",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 682,
+      "question": "সবচেয়ে বেশি ফিফা বিশ্বকাপ জিতেছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2618,
+          "description": "ব্রাজিল",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2619,
+          "description": "বেলজিয়াম",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2620,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2621,
+          "description": "জার্মানি ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 683,
+      "question": "ব্রাজিল কয়টি ফিফা বিশ্বকাপ জিতেছে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2622,
+          "description": "৭",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2623,
+          "description": "৫",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2624,
+          "description": "৬",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2625,
+          "description": "৪",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 684,
+      "question": "দ্বিতীয় সর্বোচ্চ বিশ্বকাপ জিতেছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2626,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2627,
+          "description": "ফ্রান্স ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2628,
+          "description": "ইতালি ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2629,
+          "description": "স্পেন ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 685,
+      "question": "ইতালি কয়টি ফিফা বিশ্বকাপ জিতেছে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2630,
+          "description": "৭",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2631,
+          "description": "৫",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2632,
+          "description": "৬",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2633,
+          "description": "৪",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 686,
+      "question": "সবচেয়ে বেশিবার ফিফা বিশ্বকাপের ফাইনালে উঠেছে এমন দুটি দেশ এর নাম কি?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2634,
+          "description": "জার্মানি, ব্রাজিল ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2635,
+          "description": "জার্মানি, আর্জেন্টিনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2636,
+          "description": "ব্রাজিল, আর্জেন্টিনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2637,
+          "description": "জার্মানি, স্পেন ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 687,
+      "question": "জার্মানি ও ব্রাজিল কতবার ফিফা বিশ্বকাপের ফাইনালে উঠেছে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2638,
+          "description": "৫",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2639,
+          "description": "৭",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2640,
+          "description": "৪",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2641,
+          "description": "৬",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 688,
+      "question": "জার্মানি কতবার টুর্নামেন্ট জিতেছে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2642,
+          "description": "৩",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2643,
+          "description": "৪",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2644,
+          "description": "৫",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2645,
+          "description": "৬",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 689,
+      "question": "প্রথম ফিফা বিশ্বকাপের আয়োজক কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2646,
+          "description": "বেলজিয়াম",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2647,
+          "description": "জার্মানি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2648,
+          "description": "ইতালি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2649,
+          "description": "উরুগুয়ে ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 690,
+      "question": "প্রথম টুর্নামেন্টে অংশগ্রহণকারী দেশগুলোর রাজ্য গণনা?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2650,
+          "description": "১১ টিমস ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2651,
+          "description": "১২ টিমস ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2652,
+          "description": "১৩ টিমস ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2653,
+          "description": "১৪ টিমস ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 691,
+      "question": "ফিফা বিশ্বকাপে সবচেয়ে বেশি গোল করা খেলোয়াড় কে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2654,
+          "description": "ম্যারাডোনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2655,
+          "description": "ক্লোসে ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2656,
+          "description": "কাকা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2657,
+          "description": "নেইমার ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 692,
+      "question": "তিনবার বিশ্বকাপ জয়ী একমাত্র খেলোয়াড় কে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2658,
+          "description": "নেইমার ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2659,
+          "description": "ম্যারাডোনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2660,
+          "description": "কাকা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2661,
+          "description": "পেলে ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 693,
+      "question": "খেলোয়াড় এবং ম্যানেজার উভয় হিসাবে বিশ্বকাপ জয়ী প্রথম খেলোয়াড় কে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2662,
+          "description": "ম্যারাডোনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2663,
+          "description": "মারিও জাগালো ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2664,
+          "description": "কাকা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2665,
+          "description": "ক্লোসে ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 694,
+      "question": "বিশ্বকাপে উপস্থিত হওয়া সবচেয়ে বয়স্ক খেলোয়াড় কে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2666,
+          "description": "কাকা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2667,
+          "description": "মারিও জাগালো ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2668,
+          "description": "ফারিদ মন্দ্রাগন ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2669,
+          "description": "ম্যারাডোনা ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 695,
+      "question": "বিশ্বকাপে উপস্থিত হওয়া সবচেয়ে কম বয়সী খেলোয়াড় কে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2670,
+          "description": "হোয়াইটসাইড ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2671,
+          "description": "ফারিদ মন্দ্রাগন ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2672,
+          "description": "মারিও জাগালো ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2673,
+          "description": "নেইমার ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 696,
+      "question": "বিশ্বকাপের ফাইনালে খেলা সবচেয়ে কম বয়সী খেলোয়াড় কে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2674,
+          "description": "নেইমার ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2675,
+          "description": "পেলে ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2676,
+          "description": "কাকা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2677,
+          "description": "মেসি ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 697,
+      "question": "বিশ্বকাপে প্রথম হ্যাটট্রিক করেন কোন খেলোয়াড় কে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2678,
+          "description": "বার্ট পাটনাউড ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2679,
+          "description": "পেলে ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2680,
+          "description": "মেসি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2681,
+          "description": "নেইমার ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 698,
+      "question": "ব্রাজিলে 2014 বিশ্বকাপে ব্যবহৃত বলের নাম কি ছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2682,
+          "description": "আল রিহলা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2683,
+          "description": "ব্রাজুকা ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2684,
+          "description": "অ্যালেন ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2685,
+          "description": "ফেডারেল ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 699,
+      "question": "বিশ্বকাপে সবচেয়ে বেশি ম্যাচ হেরেছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2686,
+          "description": "বেলজিয়াম",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2687,
+          "description": "ইতালি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2688,
+          "description": "মক্সিকো ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2689,
+          "description": "পোল্যান্ড ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 700,
+      "question": "প্রথম রাউন্ডে বাদ পড়া একমাত্র স্বাগতিক দেশ কোনটি?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2690,
+          "description": "সাউথ আফ্রিকা ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2691,
+          "description": "পোল্যান্ড ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2692,
+          "description": "মক্সিকো ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2693,
+          "description": "ফ্রান্স ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 701,
+      "question": "দক্ষিণ আফ্রিকায় 2010 বিশ্বকাপের অফিসিয়াল গানটির নাম কি ছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2694,
+          "description": "লিভ ইট আপ ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2695,
+          "description": "কালারস্ ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2696,
+          "description": "ওলে ওলা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2697,
+          "description": "ওয়াকা ওয়াকা ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 702,
+      "question": "কোন দেশ প্রতিটি ফিফা বিশ্বকাপে খেলেছে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2698,
+          "description": "ব্রাজিল",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2699,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2700,
+          "description": "জার্মানি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2701,
+          "description": "স্পেন ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 703,
+      "question": "প্রথম ফিফা মহিলা বিশ্বকাপ কবে অনুষ্ঠিত হয়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2702,
+          "description": "১৯৯৮",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2703,
+          "description": "১৯৯৩",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2704,
+          "description": "১৯৯১",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2705,
+          "description": "২০০১",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 704,
+      "question": "প্রথম ফিফা মহিলা বিশ্বকাপ কোথায় অনুষ্ঠিত হয়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2706,
+          "description": "ইতালি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2707,
+          "description": "চীন",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2708,
+          "description": "জার্মানি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2709,
+          "description": "জাপান",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 705,
+      "question": "২০২২ সালের ফিফা বিশ্বকাপে কয়টি দল অংশগ্রহণ করছে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2710,
+          "description": "৩০",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2711,
+          "description": "৩২",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2712,
+          "description": "৩৪",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2713,
+          "description": "২৮",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 706,
+      "question": "ফিফা বিশ্বকাপ কত বছর পর পর হয় ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2714,
+          "description": "২",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2715,
+          "description": "৩",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2716,
+          "description": "৪",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2717,
+          "description": "৬",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 707,
+      "question": "২০১৮ সালের ফিফা বিশ্বকাপ কোন দল জিতেছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2718,
+          "description": "জার্মানি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2719,
+          "description": "ফ্রান্স ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2720,
+          "description": "ইতালি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2721,
+          "description": "স্পেন ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 708,
+      "question": "ফিফা বিশ্বকাপ ২০২২ এ এদের মধ্যে কে নেদারল্যান্ডস এর গোল কিপার ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2722,
+          "description": "নিক পপে ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2723,
+          "description": "জাস্টিন বিজলও ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2724,
+          "description": "কোডি গ্যাকপ ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2725,
+          "description": "ফ্রাঙ্ক আরমানি ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 709,
+      "question": "ফিফা বিশ্বকাপ ২০২২ এ এদের মধ্যে কে ইংল্যান্ড এর গোল কিপার ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2726,
+          "description": "কোডি গ্যাকপ ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2727,
+          "description": "জাস্টিন বিজলও ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2728,
+          "description": "নিক পপে ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2729,
+          "description": "ফ্রাঙ্ক আরমানি ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 710,
+      "question": "২০২২ সালের ফিফা বিশ্বকাপে এদের মধ্যে কে আর্জেন্টিনা এর গোল কিপার ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2730,
+          "description": "ফ্রাঙ্ক আরমানি ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2731,
+          "description": "জাস্টিন বিজলও ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2732,
+          "description": "নিক পপে ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2733,
+          "description": "কোডি গ্যাকপ ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 711,
+      "question": "২০২২ সালের ফিফা বিশ্বকাপে এদের মধ্যে কে ব্রাজিল গোল কিপার ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2734,
+          "description": "ফ্রাঙ্ক আরমানি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2735,
+          "description": "এদেরসন ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2736,
+          "description": "জাস্টিন বিজলও ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2737,
+          "description": "নিক পপে ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 712,
+      "question": "স্টিভ মানদানদা ফিফা বিশ্বকাপ ২০২২ সালে কোন দলের গোল কিপার?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2738,
+          "description": "ইতালি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2739,
+          "description": "ফ্রান্স ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2740,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2741,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 713,
+      "question": "ডেভিড রায়া ফিফা বিশ্বকাপ ২০২২ সালে কোন দলের গোল কিপার?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2742,
+          "description": "স্পেন ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2743,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2744,
+          "description": "ফ্রান্স ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2745,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 714,
+      "question": "প্যাট্রিক সেকুইরা ফিফা বিশ্বকাপ ২০২২ সালে কোন দলের গোল কিপার?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2746,
+          "description": "স্পেন ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2747,
+          "description": "ফ্রান্স ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2748,
+          "description": "কোস্টা রিকা ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2749,
+          "description": "পোল্যান্ড ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 715,
+      "question": "কেভিন ট্র্যাপ ফিফা বিশ্বকাপ ২০২২ সালে কোন দলের গোল কিপার?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2750,
+          "description": "স্পেন ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2751,
+          "description": "কোস্টা রিকা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2752,
+          "description": "পোল্যান্ড ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2753,
+          "description": "জার্মানি ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 716,
+      "question": "সাইমন মিগনোলেট ফিফা বিশ্বকাপ ২০২২ সালে কোন দলের গোল কিপার?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2754,
+          "description": "বেলজিয়াম",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2755,
+          "description": "নেদারল্যান্ডস ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2756,
+          "description": "পোল্যান্ড ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2757,
+          "description": "ইতালি ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 717,
+      "question": "ইভিকা ফিফা বিশ্বকাপ ২০২২ সালে কোন দলের গোল কিপার?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2758,
+          "description": "নেদারল্যান্ডস ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2759,
+          "description": "ক্রোয়েশিয়া ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2760,
+          "description": "কোস্টা রিকা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2761,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 718,
+      "question": "এলিসন ফিফা বিশ্বকাপ ২০২২ সালে কোন দলের গোল কিপার?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2762,
+          "description": "পোল্যান্ড ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2763,
+          "description": "ক্রোয়েশিয়া ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2764,
+          "description": "ব্রাজিল",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2765,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 719,
+      "question": "সেবাস্তিয়ান সোসা বিশ্বকাপ ২০২২ সালে কোন দলের গোল কিপার?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2766,
+          "description": "নেদারল্যান্ডস ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2767,
+          "description": "উরুগুয়ে ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2768,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2769,
+          "description": "স্পেন ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 720,
+      "question": "দিয়াগো কোস্টা বিশ্বকাপ ২০২২ সালে কোন দলের গোল কিপার?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2770,
+          "description": "সাউথ কোরিয়া ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2771,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2772,
+          "description": "স্পেন ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2773,
+          "description": "ইতালি ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 721,
+      "question": "ক্রিস্টিয়ান রোমেরো বিশ্বকাপ ২০২২ সালে কোন দলের খেলোয়াড়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2774,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2775,
+          "description": "সাউথ কোরিয়া ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2776,
+          "description": "স্পেন ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2777,
+          "description": "ইতালি ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 722,
+      "question": "ডেভিড রাউম বিশ্বকাপ ২০২২ সালে কোন দলের খেলোয়াড়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2778,
+          "description": "স্পেন ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2779,
+          "description": "সাউথ কোরিয়া ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2780,
+          "description": "জার্মানি ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2781,
+          "description": "বেলজিয়াম",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 723,
+      "question": "জশুয়া কিমিচ বিশ্বকাপ ২০২২ সালে কোন দলের খেলোয়াড়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2782,
+          "description": "জার্মানি ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2783,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2784,
+          "description": "সাউথ কোরিয়া ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2785,
+          "description": "নেদারল্যান্ডস ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 724,
+      "question": "আদ্রিয়ান রাবিওত বিশ্বকাপ ২০২২ সালে কোন দলের খেলোয়াড়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2786,
+          "description": "বেলজিয়াম",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2787,
+          "description": "নেদারল্যান্ডস ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2788,
+          "description": "ফ্রান্স ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2789,
+          "description": "স্পেন ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 725,
+      "question": "জোর্দি আলবা বিশ্বকাপ ২০২২ সালে কোন দলের খেলোয়াড়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2790,
+          "description": "নেদারল্যান্ডস ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2791,
+          "description": "ফ্রান্স ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2792,
+          "description": "সাউথ কোরিয়া ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2793,
+          "description": "স্পেন ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 726,
+      "question": "আলেক্স তেলেস বিশ্বকাপ ২০২২ সালে কোন দলের খেলোয়াড়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2794,
+          "description": "ব্রাজিল",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2795,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2796,
+          "description": "জার্মানি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2797,
+          "description": "স্পেন ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 727,
+      "question": "ফাবিনহো বিশ্বকাপ ২০২২ সালে কোন দলের খেলোয়াড়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2798,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2799,
+          "description": "ব্রাজিল",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2800,
+          "description": "ফ্রান্স ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2801,
+          "description": "স্পেন ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 728,
+      "question": "ক্রিস্টিয়ানো রোনালদো বিশ্বকাপ ২০২২ সালে কোন দলের খেলোয়াড়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2802,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2803,
+          "description": "ফ্রান্স ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2804,
+          "description": "পর্তুগাল ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2805,
+          "description": "উরুগুয়ে ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 729,
+      "question": "পেঁপে বিশ্বকাপ ২০২২ সালে কোন দলের খেলোয়াড়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2806,
+          "description": "স্পেন ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2807,
+          "description": "পর্তুগাল ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2808,
+          "description": "নেদারল্যান্ডস ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2809,
+          "description": "বেলজিয়াম",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 730,
+      "question": "কাইল ওয়াকার ২০২২ সালে কোন দলের খেলোয়াড়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2810,
+          "description": "ইংল্যান্ড ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2811,
+          "description": "নেদারল্যান্ডস ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2812,
+          "description": "পর্তুগাল ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2813,
+          "description": "জার্মানি ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 731,
+      "question": "পাউলো দায়বালা ২০২২ সালে কোন দলের খেলোয়াড়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2814,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2815,
+          "description": "ফ্রান্স ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2816,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2817,
+          "description": "পর্তুগাল ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 732,
+      "question": "এঞ্জেল ডি মারিয়া ২০২২ সালে কোন দলের খেলোয়াড়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2818,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2819,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2820,
+          "description": "স্পেন ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2821,
+          "description": "জার্মানি ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 733,
+      "question": "পাবলো সারাবিয়া ২০২২ সালে কোন দলের খেলোয়াড়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2822,
+          "description": "স্পেন ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2823,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2824,
+          "description": "পর্তুগাল ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2825,
+          "description": "ফ্রান্স ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 734,
+      "question": "কার্লস সোলার ২০২২ সালে কোন দলের খেলোয়াড়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2826,
+          "description": "ইংল্যান্ড ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2827,
+          "description": "স্পেন ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2828,
+          "description": "পর্তুগাল ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2829,
+          "description": "ইতালি ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 735,
+      "question": "ফেরান টোরেস ২০২২ সালে কোন দলের খেলোয়াড়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2830,
+          "description": "ইতালি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2831,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2832,
+          "description": "স্পেন ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2833,
+          "description": "পর্তুগাল ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 736,
+      "question": "থমাস মুলার ২০২২ সালে কোন দলের খেলোয়াড়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2834,
+          "description": "স্পেন ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2835,
+          "description": "পর্তুগাল ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2836,
+          "description": "জার্মানি ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2837,
+          "description": "ফ্রান্স ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 737,
+      "question": "জুয়ান পাবলো ভার্গাস ২০২২ সালে কোন দলের খেলোয়াড়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2838,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2839,
+          "description": "কোস্টা রিকা ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2840,
+          "description": "ক্রোয়েশিয়া ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2841,
+          "description": "ফ্রান্স ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 738,
+      "question": "আদম দেভিয়াস ২০২২ সালে কোন দলের খেলোয়াড়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2842,
+          "description": "ক্রোয়েশিয়া ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2843,
+          "description": "ওয়েলস ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2844,
+          "description": "কোস্টা রিকা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2845,
+          "description": "পর্তুগাল ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 739,
+      "question": "ফিফা বিশ্বকাপ ২০২২ কোথায় অনুষ্ঠিত হচ্ছে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2846,
+          "description": "কাতার ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2847,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2848,
+          "description": "ফ্রান্স ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2849,
+          "description": "ইংল্যান্ড ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 740,
+      "question": "ফিফা বিশ্বকাপ ২০১৮ কোথায় অনুষ্ঠিত হয়েছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2850,
+          "description": "রাশিয়া ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2851,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2852,
+          "description": "কাতার ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2853,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 741,
+      "question": "রিকার্ডো কাকা কোন দলের ক্যাপ্টেন কি ছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2854,
+          "description": "ক্রোয়েশিয়া ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2855,
+          "description": "ব্রাজিল",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2856,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2857,
+          "description": "পর্তুগাল ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 742,
+      "question": "ফিফা বিশ্বকাপ 2022 কয়টি স্টেডিয়ামে খেলা হবে??",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2858,
+          "description": "৮",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2859,
+          "description": "৬",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2860,
+          "description": "৭",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2861,
+          "description": "৯",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 743,
+      "question": "ফিফা বিশ্বকাপ ২০২২ কত নম্বর এডিশন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2862,
+          "description": "২৩",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2863,
+          "description": "২২",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2864,
+          "description": "২৪",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2865,
+          "description": "২১",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 744,
+      "question": "২০২২ ফিফা বিশ্বকাপে ৩২ টি দলকে কয়টি গ্রুপে ভাগ করা হয়েছে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2866,
+          "description": "৬",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2867,
+          "description": "৭",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2868,
+          "description": "৮",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2869,
+          "description": "৯",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 745,
+      "question": "ফিফা বিশ্বকাপ ২০২২ সালে ব্রাজিল কোন গ্রুপ এ অবস্থিত?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2870,
+          "description": "গ্রুপ A ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2871,
+          "description": "গ্রুপ D",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2872,
+          "description": "গ্রুপ G",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2873,
+          "description": "গ্রুপ H",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 746,
+      "question": "ফিফা বিশ্বকাপ ২০২২ সালে পর্তুগাল কোন গ্রুপ এ অবস্থিত?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2874,
+          "description": "গ্রুপ A ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2875,
+          "description": "গ্রুপ D",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2876,
+          "description": "গ্রুপ G",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2877,
+          "description": "গ্রুপ H",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 747,
+      "question": "ফিফা বিশ্বকাপ ২০২২ সালে ঘানা কোন গ্রুপ এ অবস্থিত?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2878,
+          "description": "গ্রুপ A ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2879,
+          "description": "গ্রুপ H",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2880,
+          "description": "গ্রুপ G",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2881,
+          "description": "গ্রুপ D",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 748,
+      "question": "ফিফা বিশ্বকাপ ২০২২ সালে বেলজিয়াম কোন গ্রুপ এ অবস্থিত?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2882,
+          "description": "গ্রুপ F",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2883,
+          "description": "গ্রুপ E",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2884,
+          "description": "গ্রুপ G",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2885,
+          "description": "গ্রুপ D",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 749,
+      "question": "ফিফা বিশ্বকাপ ২০২২ সালে ক্রোয়েশিয়া কোন গ্রুপ এ অবস্থিত?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2886,
+          "description": "গ্রুপ F",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2887,
+          "description": "গ্রুপ E",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2888,
+          "description": "গ্রুপ G",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2889,
+          "description": "গ্রুপ D",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 750,
+      "question": "ফিফা বিশ্বকাপ ২০২২ সালে স্পেন কোন গ্রুপ এ অবস্থিত?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2890,
+          "description": "গ্রুপ E",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2891,
+          "description": "গ্রুপ G",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2892,
+          "description": "গ্রুপ F",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2893,
+          "description": "গ্রুপ D",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 751,
+      "question": "ফিফা বিশ্বকাপ ২০২২ সালে কোস্টা রিকা কোন গ্রুপ এ অবস্থিত?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2894,
+          "description": "গ্রুপ G",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2895,
+          "description": "গ্রুপ E",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2896,
+          "description": "গ্রুপ D",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2897,
+          "description": "গ্রুপ F",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 752,
+      "question": "ফিফা বিশ্বকাপ ২০২২ সালে জার্মানি কোন গ্রুপ এ অবস্থিত?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2898,
+          "description": "গ্রুপ F",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2899,
+          "description": "গ্রুপ G",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2900,
+          "description": "গ্রুপ E",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2901,
+          "description": "গ্রুপ D",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 753,
+      "question": "ফিফা বিশ্বকাপ ২০২২ সালে ফ্রান্স কোন গ্রুপ এ অবস্থিত?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2902,
+          "description": "গ্রুপ F",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2903,
+          "description": "গ্রুপ G",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2904,
+          "description": "গ্রুপ E",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2905,
+          "description": "গ্রুপ D",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 754,
+      "question": "ফিফা বিশ্বকাপ ২০২২ সালে পোল্যান্ড কোন গ্রুপ এ অবস্থিত?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2906,
+          "description": "গ্রুপ A",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2907,
+          "description": "গ্রুপ B",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2908,
+          "description": "গ্রুপ C",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2909,
+          "description": "গ্রুপ D",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 755,
+      "question": "একটা ফুটবল ম্যাচে একসাথে মাঠে এক দল থেকে কয়জন খেলোয়াড় খেলে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2910,
+          "description": "১০",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2911,
+          "description": "১১",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2912,
+          "description": "১২",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2913,
+          "description": "১৩",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 756,
+      "question": "একটি ফুটবল ম্যাচের সময়কাল কতক্ষন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2914,
+          "description": "৬০ মিনিট ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2915,
+          "description": "৭০ মিনিট ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2916,
+          "description": "৯০ মিনিট ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2917,
+          "description": "১ ঘন্টা ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 757,
+      "question": "ব্রাজিল জাতীয় দলের জার্সির প্রধান রং কি?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2918,
+          "description": "হলুদ ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2919,
+          "description": "নীল ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2920,
+          "description": "সাদা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2921,
+          "description": "লাল ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 758,
+      "question": "পেনাল্টি শুট আউটে সাধারণত কয়টি পেনাল্টি নেওয়া হয়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2922,
+          "description": "৩",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2923,
+          "description": "৪",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2924,
+          "description": "৫",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2925,
+          "description": "৬",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 759,
+      "question": "আর্জেন্টিনার জাতীয় দলের জার্সির প্রধান রং কি কি?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2926,
+          "description": "নীল ও সাদা ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2927,
+          "description": "নীল ও কালো ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2928,
+          "description": "সাদা ও লাল ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2929,
+          "description": "সাদা ও সবুজ ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 760,
+      "question": "জার্মানির জাতীয় দলের জার্সির প্রধান রং কী কী?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2930,
+          "description": "লাল নীল ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2931,
+          "description": "লাল হলুদ ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2932,
+          "description": "লাল সাদা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2933,
+          "description": "লাল কালো ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 761,
+      "question": "ফুটবল ম্যাচে রেফারিরা কোন রঙের কার্ড বহন করে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2934,
+          "description": "লাল ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2935,
+          "description": "হলুদ ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2936,
+          "description": "লাল এবং হলুদ ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2937,
+          "description": "হলুদ এবং সাদা ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 762,
+      "question": "ইউরোপের কোন দেশে রিয়াল মাদ্রিদ ফুটবল খেলে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2938,
+          "description": "স্পেন ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2939,
+          "description": "জার্মানি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2940,
+          "description": "স্কটল্যান্ড ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2941,
+          "description": "ইতালি ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 763,
+      "question": "ইউরোপের কোন দেশে চেলসি ফুটবল খেলে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2942,
+          "description": "স্পেন ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2943,
+          "description": "জার্মানি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2944,
+          "description": "স্কটল্যান্ড ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2945,
+          "description": "ইতালি ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 764,
+      "question": "ইউরোপের কোন দেশে বার্সেলোনা ফুটবল খেলে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2946,
+          "description": "জার্মানি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2947,
+          "description": "স্পেন ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2948,
+          "description": "ইংল্যান্ড ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2949,
+          "description": "ইতালি ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 765,
+      "question": "আর্সেনাল কোন দেশে ফুটবল খেলে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2950,
+          "description": "জার্মানি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2951,
+          "description": "স্পেন ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2952,
+          "description": "ইংল্যান্ড ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2953,
+          "description": "ইতালি ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 766,
+      "question": "লিভারপুল কোন দেশে ফুটবল খেলে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2954,
+          "description": "স্পেন ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2955,
+          "description": "ইংল্যান্ড ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2956,
+          "description": "ইতালি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2957,
+          "description": "জার্মানি ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 767,
+      "question": "ম্যানচেস্টার ইউনাইটেড কোন দেশে ফুটবল খেলে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2958,
+          "description": "স্পেন ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2959,
+          "description": "ইংল্যান্ড ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2960,
+          "description": "ইতালি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2961,
+          "description": "জার্মানি ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 768,
+      "question": "একটি স্পট কিক কোথা থেকে নেওয়া হয়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2962,
+          "description": "সেন্টার স্পট ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2963,
+          "description": "পেনাল্টি স্পট ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2964,
+          "description": "ইন্ক্ স্পট ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2965,
+          "description": "অন দা স্পট ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 769,
+      "question": "একটি ফুটবল ম্যাচে হাফ-টাইম ব্যবধানের জন্য অনুমোদিত সময়ের স্বাভাবিক দৈর্ঘ্য কত?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2966,
+          "description": "১০ মিনিট ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2967,
+          "description": "১৫ মিনিট ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2968,
+          "description": "২০ মিনিট ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2969,
+          "description": "৩০ মিনিট ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 770,
+      "question": "টাচ লাইন থেকে পেনাল্টি এরিয়া কত দূরে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2970,
+          "description": "১২ ইয়ার্ড ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2971,
+          "description": "১৫ ইয়ার্ড ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2972,
+          "description": "১৮ ইয়ার্ড ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2973,
+          "description": "২২ ইয়ার্ড ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 771,
+      "question": "এদের মধ্যে কে ফিফা বিশ্বকাপ ২০২২ সালের স্পনসর?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2974,
+          "description": "হুন্ডাই",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2975,
+          "description": "টয়োটা",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2976,
+          "description": "নিসান",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2977,
+          "description": "হোন্ডা",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 772,
+      "question": "প্রতিষ্ঠিত প্রথম ফুটবল ক্লাবের নাম কি?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2978,
+          "description": "শেফিল্ড",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2979,
+          "description": "চেলসি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2980,
+          "description": "বার্সেলোনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2981,
+          "description": "আর্সেনাল ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 773,
+      "question": "কে প্রথম প্রিমিয়ার লিগের শিরোপা জিতেছেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2982,
+          "description": "চেলসি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2983,
+          "description": "আর্সেনাল ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2984,
+          "description": "ম্যানচেস্টার ইউনাইটেড ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2985,
+          "description": "বার্সেলোনা ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 774,
+      "question": "কোন ক্লাব সবচেয়ে বেশি চ্যাম্পিয়ন্স লিগ শিরোপা জিতেছে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2986,
+          "description": "চেলসি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2987,
+          "description": "বার্সেলোনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2988,
+          "description": "ম্যানচেস্টার ইউনাইটেড ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2989,
+          "description": "রিয়েল মাদ্রিদ ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 775,
+      "question": "কোন সালে প্রথমবারের মতো ২৪টি দল ইউরোপিয়ান চ্যাম্পিয়নশিপে খেলেছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2990,
+          "description": "২০১৬",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2991,
+          "description": "২০১৭",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2992,
+          "description": "২০১৮",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2993,
+          "description": "২০২১",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 776,
+      "question": "১৯৩০ সালের টুর্নামেন্টে কতটি দেশ অংশ নিয়েছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2994,
+          "description": "১৪",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2995,
+          "description": "১৩",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2996,
+          "description": "১৬",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 2997,
+          "description": "১২",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 777,
+      "question": "১৯৬৬ বিশ্বকাপের আয়োজক দেশের নাম কি ছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 2998,
+          "description": "ইংল্যান্ড ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 2999,
+          "description": "স্পেন",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3000,
+          "description": "ইতালি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3001,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 778,
+      "question": "ইংল্যান্ড কবে প্রথম বিশ্বকাপ জয় করে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3002,
+          "description": "১৯৬৬",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3003,
+          "description": "১৯৬২",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3004,
+          "description": "১৯৭০",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3005,
+          "description": "১৯৬৭",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 779,
+      "question": "১৯৩০ সালে উরুগুয়ের কাছে কোন দল হেরেছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3006,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3007,
+          "description": "ইতালি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3008,
+          "description": "ইংল্যান্ড ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3009,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 780,
+      "question": "কোন দেশ ১৯৬২ বিশ্বকাপ জিতেছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3010,
+          "description": "ব্রাজিল",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3011,
+          "description": "স্পেন ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3012,
+          "description": "ইংল্যান্ড ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3013,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 781,
+      "question": "কোন দেশ প্রথম তিনটি বিশ্বকাপ জিতেছে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3014,
+          "description": "স্পেন ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3015,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3016,
+          "description": "ইংল্যান্ড ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3017,
+          "description": "ব্রাজিল",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 782,
+      "question": "ইতালিতে অনুষ্ঠিত ১৯৩৪ সালের বিশ্বকাপ কোন দেশ জিতেছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3018,
+          "description": "স্পেন ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3019,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3020,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3021,
+          "description": "ইতালি ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 783,
+      "question": "বিশ্বকাপের সব খেলায় কোন দেশ সবচেয়ে বেশি গোল করেছে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3022,
+          "description": "স্পেন ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3023,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3024,
+          "description": "ব্রাজিল",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3025,
+          "description": "ইতালি ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 784,
+      "question": "কোন দল 8টি বিশ্বকাপের জন্য যোগ্যতা অর্জন করেছে, কিন্তু প্রথম রাউন্ড অতিক্রম করতে পারেনি?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3026,
+          "description": "স্কটল্যান্ড",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3027,
+          "description": "উরুগুয়ে",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3028,
+          "description": "ক্রোয়েশিয়া",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3029,
+          "description": "কানাডা",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 785,
+      "question": "আয়োজক দেশ হিসেবে কতটি দেশ টুর্নামেন্ট জিততে পেরেছে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3030,
+          "description": "৩",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3031,
+          "description": "৬",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3032,
+          "description": "৭",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3033,
+          "description": "৪",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 786,
+      "question": "কোন সালে ট্রফিটি হারিয়ে যায়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3034,
+          "description": "১৯৬৬",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3035,
+          "description": "১৯৬৭",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3036,
+          "description": "১৯৬২",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3037,
+          "description": "২০১০",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 787,
+      "question": "এখন পর্যন্ত কতটি দল বিশ্বকাপ খেলার যোগ্যতা অর্জন করেছে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3038,
+          "description": "৭৬",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3039,
+          "description": "৭৭",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3040,
+          "description": "৭৮",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3041,
+          "description": "৭৯",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 788,
+      "question": "১৯৫৪ ফিফা বিশ্বকাপে সর্বোচ্চ গোলদাতা কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3042,
+          "description": "সান্দর ককসিস ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3043,
+          "description": "জাস্ট ফোনটাইনে ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3044,
+          "description": "ইউসিবিও ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3045,
+          "description": "গার্ড মুলার ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 789,
+      "question": "১৯৫৮ ফিফা বিশ্বকাপে সর্বোচ্চ গোলদাতা কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3046,
+          "description": "সান্দর ককসিস ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3047,
+          "description": "জাস্ট ফোনটাইনে ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3048,
+          "description": "ইউসিবিও ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3049,
+          "description": "গার্ড মুলার ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 790,
+      "question": "১৯৬৬ ফিফা বিশ্বকাপে সর্বোচ্চ গোলদাতা কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3050,
+          "description": "সান্দর ককসিস ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3051,
+          "description": "জাস্ট ফোনটাইনে ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3052,
+          "description": "ইউসিবিও ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3053,
+          "description": "গার্ড মুলার ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 791,
+      "question": "১৯৭০ ফিফা বিশ্বকাপে সর্বোচ্চ গোলদাতা কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3054,
+          "description": "সান্দর ককসিস ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3055,
+          "description": "জাস্ট ফোনটাইনে ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3056,
+          "description": "ইউসিবিও ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3057,
+          "description": "গার্ড মুলার ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 792,
+      "question": "১৯৭৮ ফিফা বিশ্বকাপে সর্বোচ্চ গোলদাতা কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3058,
+          "description": "মারিও কেম্পেস ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3059,
+          "description": "পাওলো রোসি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3060,
+          "description": "গ্যারি লিনেকার ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3061,
+          "description": "সালভাতোর",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 793,
+      "question": "১৯৮২ ফিফা বিশ্বকাপে সর্বোচ্চ গোলদাতা কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3062,
+          "description": "মারিও কেম্পেস ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3063,
+          "description": "পাওলো রোসি ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3064,
+          "description": "গ্যারি লিনেকার ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3065,
+          "description": "সালভাতোর",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 794,
+      "question": "১৯৮৬ ফিফা বিশ্বকাপে সর্বোচ্চ গোলদাতা কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3066,
+          "description": "মারিও কেম্পেস ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3067,
+          "description": "পাওলো রোসি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3068,
+          "description": "গ্যারি লিনেকার ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3069,
+          "description": "সালভাতোর",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 795,
+      "question": "১৯৯০ ফিফা বিশ্বকাপে সর্বোচ্চ গোলদাতা কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3070,
+          "description": "মারিও কেম্পেস ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3071,
+          "description": "পাওলো রোসি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3072,
+          "description": "গ্যারি লিনেকার ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3073,
+          "description": "সালভাতোর",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 796,
+      "question": "১৯৯৮ ফিফা বিশ্বকাপে সর্বোচ্চ গোলদাতা কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3074,
+          "description": "দাভর সুকের ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3075,
+          "description": "রোনালদো ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3076,
+          "description": "মিরোস্লাভ ক্লোসে ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3077,
+          "description": "হ্যারি কেন ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 797,
+      "question": "২০০২ ফিফা বিশ্বকাপে সর্বোচ্চ গোলদাতা কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3078,
+          "description": "দাভর সুকের ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3079,
+          "description": "রোনালদো ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3080,
+          "description": "মিরোস্লাভ ক্লোসে ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3081,
+          "description": "হ্যারি কেন ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 798,
+      "question": "২০০৬ ফিফা বিশ্বকাপে সর্বোচ্চ গোলদাতা কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3082,
+          "description": "দাভর সুকের ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3083,
+          "description": "রোনালদো ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3084,
+          "description": "মিরোস্লাভ ক্লোসে ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3085,
+          "description": "হ্যারি কেন ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 799,
+      "question": "২০১৮ ফিফা বিশ্বকাপে সর্বোচ্চ গোলদাতা কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3086,
+          "description": "দাভর সুকের ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3087,
+          "description": "রোনালদো ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3088,
+          "description": "মিরোস্লাভ ক্লোসে ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3089,
+          "description": "হ্যারি কেন ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 800,
+      "question": "২০১৮ সালের ফিফা বিশ্বকাপে ফ্রান্স কোন দল এর সাথে বিশ্বকাপ ফাইনাল জিতেছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3090,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3091,
+          "description": "ক্রোয়েশিয়া ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3092,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3093,
+          "description": "জার্মানি ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 801,
+      "question": "২০১৪ সালের ফিফা বিশ্বকাপে জার্মানি কোন দল এর সাথে বিশ্বকাপ ফাইনাল জিতেছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3094,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3095,
+          "description": "ক্রোয়েশিয়া ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3096,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3097,
+          "description": "স্পেন ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 802,
+      "question": "২০১০ সালের ফিফা বিশ্বকাপে স্পেন কোন দল এর সাথে বিশ্বকাপ ফাইনাল জিতেছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3098,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3099,
+          "description": "ক্রোয়েশিয়া ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3100,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3101,
+          "description": "নেদারল্যান্ডস ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 803,
+      "question": "২০০২ সালের ফিফা বিশ্বকাপে ব্রাজিল কোন দল এর সাথে বিশ্বকাপ ফাইনাল জিতেছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3102,
+          "description": "জার্মানি ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3103,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3104,
+          "description": "স্পেন ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3105,
+          "description": "ইংল্যান্ড ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 804,
+      "question": "১৯৯৮ সালের ফিফা বিশ্বকাপে ফ্রান্স কোন দল এর সাথে বিশ্বকাপ ফাইনাল জিতেছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3106,
+          "description": "জার্মানি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3107,
+          "description": "ব্রাজিল",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3108,
+          "description": "স্পেন ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3109,
+          "description": "ইতালি ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 805,
+      "question": "এদের মধ্যে কোন দেশ কখনো ফিফা বিশ্বকাপ জিতেনি?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3110,
+          "description": "বেলজিয়াম ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3111,
+          "description": "ফ্রান্স ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3112,
+          "description": "ব্রাজিল ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3113,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 806,
+      "question": "ফুটবল বিশ্বকাপ  কত বছর পর পর অনুষ্ঠিত হয়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3114,
+          "description": "৪",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3115,
+          "description": "১",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3116,
+          "description": "৩",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3117,
+          "description": "২",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 807,
+      "question": "2010 সালে, এই দলগুলির মধ্যে কোনটি সেমিফাইনালে ছিল না?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3118,
+          "description": "স্পেন",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3119,
+          "description": "উরুগুয়ে",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3120,
+          "description": "ইংল্যান্ড",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3121,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 808,
+      "question": "2022 বিশ্বকাপের আগে, কোন গোলরক্ষক বিশ্বকাপের একটি ম্যাচে সবচেয়ে বেশি সেভ করেছেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3122,
+          "description": "লেভ ইয়াশিন",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3123,
+          "description": "টিম হাওয়ার্ড",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3124,
+          "description": "মানুয়েল নয়ার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3125,
+          "description": "আলিসন",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 809,
+      "question": "‘হ্যান্ড অফ গড’ গোলটি কে করেছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3126,
+          "description": "পেলে",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3127,
+          "description": "কাকা",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3128,
+          "description": "মেসি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3129,
+          "description": "ম্যারাডোনা",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 810,
+      "question": "সেরা খেলোয়াড়ের পুরস্কারের নাম কী?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3130,
+          "description": "গোল্ডেন বল",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3131,
+          "description": "সিলভার বল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3132,
+          "description": "গোল্ডেন বুট",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3133,
+          "description": "সিলভার বুট",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 811,
+      "question": "তিনবার নতুন ফিফা বিশ্বকাপ ট্রফি জয়ী প্রথম দেশের নাম কি?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3134,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3135,
+          "description": "স্পেন",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3136,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3137,
+          "description": "জার্মানি",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 812,
+      "question": "64 বছরের মধ্যে কোন দেশ তাদের প্রথম বিশ্বকাপ খেলতে কাতারে যাবে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3138,
+          "description": "ওয়েল্‌স",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3139,
+          "description": "ইকুয়েডর",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3140,
+          "description": "কাতার ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3141,
+          "description": "সেনেগাল",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 813,
+      "question": "2014 বিশ্বকাপে কে সেরা যুব খেলোয়াড়ের পুরস্কারে ভূষিত হয়েছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3142,
+          "description": "পল পগবা",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3143,
+          "description": "কাকা",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3144,
+          "description": "নেইমার ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3145,
+          "description": "ফ্রাঙ্ক আরমানি ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 814,
+      "question": "২০১৮ ফিফা বিশ্বকাপে রানার-আপ হয়েছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3146,
+          "description": "ইংল্যান্ড",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3147,
+          "description": "ক্রোয়েশিয়া",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3148,
+          "description": "বেলজিয়াম",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3149,
+          "description": "স্পেন",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 815,
+      "question": "২০১৮ ফিফা বিশ্বকাপে তৃতীয় স্থান অর্জন করেছে  কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3150,
+          "description": "ইংল্যান্ড",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3151,
+          "description": "ক্রোয়েশিয়া",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3152,
+          "description": "বেলজিয়াম",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3153,
+          "description": "স্পেন",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 816,
+      "question": "২০১৮ ফিফা বিশ্বকাপে শীর্ষ গোলদাতা কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3154,
+          "description": "কিলিয়ান এমবাপে",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3155,
+          "description": "থিবো কোর্তোয়া",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3156,
+          "description": " লুকা মদ্রিচ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3157,
+          "description": "হ্যারি কেন ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 817,
+      "question": "২০১৮ ফিফা বিশ্বকাপে  সেরা খেলোয়াড় কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3158,
+          "description": "কিলিয়ান এমবাপে",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3159,
+          "description": "থিবো কোর্তোয়া",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3160,
+          "description": " লুকা মদ্রিচ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3161,
+          "description": "হ্যারি কেন ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 818,
+      "question": "২০১৮ ফিফা বিশ্বকাপে  সেরা যুব খেলোয়াড় কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3162,
+          "description": "কিলিয়ান এমবাপে",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3163,
+          "description": "থিবো কোর্তোয়া",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3164,
+          "description": " লুকা মদ্রিচ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3165,
+          "description": "হ্যারি কেন ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 819,
+      "question": "২০১৮ ফিফা বিশ্বকাপে  সেরা গোলরক্ষক কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3166,
+          "description": "মানুয়েল নয়ার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3167,
+          "description": "আলিসন",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3168,
+          "description": "লেভ ইয়াশিন",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3169,
+          "description": "থিবো কোর্তোয়া",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 820,
+      "question": "২০১৮ ফিফা বিশ্বকাপে হ্যারি কেন মোট কয়টি গোল দিয়েছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3170,
+          "description": "৪ টি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3171,
+          "description": "৫টি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3172,
+          "description": "৬টি",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3173,
+          "description": "৭টি",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 821,
+      "question": "২০১৮ ফিফা বিশ্বকাপে ফেয়ার প্লে পুরষ্কার অর্জন করেছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3174,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3175,
+          "description": "জার্মানি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3176,
+          "description": "স্পেন",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3177,
+          "description": "ইংল্যান্ড",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 822,
+      "question": "২০১৪ বিশ্বকাপ কোথায় অনুষ্ঠিত হয়েছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3178,
+          "description": "ব্রাজিল",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3179,
+          "description": "স্পেন",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3180,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3181,
+          "description": "জার্মানি",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 823,
+      "question": "২০১৪ ফিফা বিশ্বকাপে রানার-আপ হয়েছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3182,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3183,
+          "description": "স্পেন",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3184,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3185,
+          "description": "আর্জেন্টিনা",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 824,
+      "question": "২০১৪ ফিফা বিশ্বকাপে তৃতীয় স্থান অর্জন করেছে  কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3186,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3187,
+          "description": "স্পেন",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3188,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3189,
+          "description": "আর্জেন্টিনা",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 825,
+      "question": "২০১৪ ফিফা বিশ্বকাপে শীর্ষ গোলদাতা কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3190,
+          "description": "হ্যারি কেন ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3191,
+          "description": "হামেস রদ্রিগেস",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3192,
+          "description": "লিওনেল মেসি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3193,
+          "description": "পল পগবা",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 826,
+      "question": "২০১৪ ফিফা বিশ্বকাপে  সেরা খেলোয়াড় কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3194,
+          "description": "হামেস রদ্রিগেস",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3195,
+          "description": "লিওনেল মেসি",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3196,
+          "description": "পল পগবা",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3197,
+          "description": "হ্যারি কেন ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 827,
+      "question": "২০১৪ ফিফা বিশ্বকাপে  সেরা যুব খেলোয়াড় কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3198,
+          "description": "হামেস রদ্রিগেস",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3199,
+          "description": "লিওনেল মেসি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3200,
+          "description": "পল পগবা",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3201,
+          "description": "হ্যারি কেন ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 828,
+      "question": "২০১৪ ফিফা বিশ্বকাপে  সেরা গোলরক্ষক কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3202,
+          "description": "মানুয়েল নয়ার",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3203,
+          "description": "আলিসন",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3204,
+          "description": "লেভ ইয়াশিন",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3205,
+          "description": "থিবো কোর্তোয়া",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 829,
+      "question": "২০১৪ ফিফা বিশ্বকাপে হামেস রদ্রিগেস মোট কয়টি গোল দিয়েছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3206,
+          "description": "৪ টি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3207,
+          "description": "৫টি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3208,
+          "description": "৬টি",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3209,
+          "description": "৭টি",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 830,
+      "question": "২০১৪ ফিফা বিশ্বকাপে চ্যাম্পিয়ন হয়েছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3210,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3211,
+          "description": "স্পেন",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3212,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3213,
+          "description": "জার্মানি",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 831,
+      "question": "২০১০ বিশ্বকাপ কোথায় অনুষ্ঠিত হয়েছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3214,
+          "description": "জার্মানি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3215,
+          "description": "দক্ষিণ আফ্রিকা",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3216,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3217,
+          "description": "স্পেন",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 832,
+      "question": "২০১০ ফিফা বিশ্বকাপে তৃতীয় স্থান অর্জন করেছে  কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3218,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3219,
+          "description": "স্পেন",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3220,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3221,
+          "description": "জার্মানি",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 833,
+      "question": "২০১০ ফিফা বিশ্বকাপে  সেরা খেলোয়াড় কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3222,
+          "description": "দিয়েগো ফোরলান",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3223,
+          "description": "লিওনেল মেসি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3224,
+          "description": "কিলিয়ান এমবাপে",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3225,
+          "description": "থিবো কোর্তোয়া",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 834,
+      "question": "২০১০ ফিফা বিশ্বকাপে  সেরা যুব খেলোয়াড় কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3226,
+          "description": "ওয়েসলি স্নাইডার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3227,
+          "description": "থমাস মুলার",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3228,
+          "description": " ডেভিড ভিয়া",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3229,
+          "description": "দিয়েগো ফোরলান",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 835,
+      "question": "২০১০ ফিফা বিশ্বকাপে  সেরা গোলরক্ষক কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3230,
+          "description": "ইকার ক্যাসিয়াস",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3231,
+          "description": "মানুয়েল নয়ার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3232,
+          "description": "থিবো কোর্তোয়া",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3233,
+          "description": "আলিসন",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 836,
+      "question": "২০১০ ফিফা বিশ্বকাপে থমাস মুলার মোট কয়টি গোল দিয়েছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3234,
+          "description": "৪ টি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3235,
+          "description": "৫টি",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3236,
+          "description": "৬টি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3237,
+          "description": "৭টি",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 837,
+      "question": "২০১০ ফিফা বিশ্বকাপে চ্যাম্পিয়ন হয়েছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3238,
+          "description": "স্পেন",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3239,
+          "description": "জার্মানি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3240,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3241,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 838,
+      "question": "২০০৬ বিশ্বকাপ কোথায় অনুষ্ঠিত হয়েছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3242,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3243,
+          "description": "স্পেন",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3244,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3245,
+          "description": "জার্মানি",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 839,
+      "question": "২০০৬ ফিফা বিশ্বকাপে রানার-আপ হয়েছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3246,
+          "description": "স্পেন",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3247,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3248,
+          "description": "ফ্রান্স",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3249,
+          "description": "পর্তুগাল",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 840,
+      "question": "২০০৬ ফিফা বিশ্বকাপে তৃতীয় স্থান অর্জন করেছে  কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3250,
+          "description": "স্পেন",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3251,
+          "description": "জার্মানি",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3252,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3253,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 841,
+      "question": "২০০৬ ফিফা বিশ্বকাপে শীর্ষ গোলদাতা কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3254,
+          "description": "থমাস মুলার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3255,
+          "description": "মিরোস্লাভ ক্লোজে ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3256,
+          "description": "জিনেদিন জিদান",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3257,
+          "description": "লুকাস পোডলস্কি ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 842,
+      "question": "২০০৬ ফিফা বিশ্বকাপে  সেরা খেলোয়াড় কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3258,
+          "description": "থমাস মুলার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3259,
+          "description": "মিরোস্লাভ ক্লোজে ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3260,
+          "description": "জিনেদিন জিদান",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3261,
+          "description": "লুকাস পোডলস্কি ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 843,
+      "question": "২০০৬ ফিফা বিশ্বকাপে  সেরা যুব খেলোয়াড় কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3262,
+          "description": "লুকাস পোডলস্কি ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3263,
+          "description": "থমাস মুলার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3264,
+          "description": "মিরোস্লাভ ক্লোজে ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3265,
+          "description": "জিনেদিন জিদান",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 844,
+      "question": "২০০৬ ফিফা বিশ্বকাপে  সেরা গোলরক্ষক কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3266,
+          "description": "থিবো কোর্তোয়া",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3267,
+          "description": "জিয়ানলুইজি বুফন",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3268,
+          "description": "ইকার ক্যাসিয়াস",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3269,
+          "description": "মানুয়েল নয়ার",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 845,
+      "question": "২০০৬ ফিফা বিশ্বকাপে মিরোস্লাভ ক্লোজে  মোট কয়টি গোল দিয়েছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3270,
+          "description": "৪ টি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3271,
+          "description": "৫টি",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3272,
+          "description": "৬টি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3273,
+          "description": "৭টি",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 846,
+      "question": "২০০৬ ফিফা বিশ্বকাপে চ্যাম্পিয়ন হয়েছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3274,
+          "description": "ইতালি",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3275,
+          "description": "স্পেন",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3276,
+          "description": "জার্মানি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3277,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 847,
+      "question": "২০০২ বিশ্বকাপ কোথায় অনুষ্ঠিত হয়েছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3278,
+          "description": " দক্ষিণ কোরিয়া ও জাপান",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3279,
+          "description": "দক্ষিণ কোরিয়া ও চীন",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3280,
+          "description": "স্পেন",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3281,
+          "description": "জার্মানি",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 848,
+      "question": "২০০২ ফিফা বিশ্বকাপে রানার-আপ হয়েছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3282,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3283,
+          "description": "ইতালি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3284,
+          "description": "জার্মানি",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3285,
+          "description": "স্পেন",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 849,
+      "question": "২০০২ ফিফা বিশ্বকাপে তৃতীয় স্থান অর্জন করেছে  কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3286,
+          "description": "তুরস্ক",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3287,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3288,
+          "description": "জার্মানি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3289,
+          "description": "ইতালি",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 850,
+      "question": "২০০২ ফিফা বিশ্বকাপে শীর্ষ গোলদাতা কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3290,
+          "description": "রোনালদো ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3291,
+          "description": "কাকা",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3292,
+          "description": "মেসি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3293,
+          "description": "নেইমার",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 851,
+      "question": "২০০২ ফিফা বিশ্বকাপে  সেরা খেলোয়াড় কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3294,
+          "description": "অলিভার কান",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3295,
+          "description": "রোনালদো ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3296,
+          "description": "মেসি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3297,
+          "description": "নেইমার",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 852,
+      "question": "২০০২ ফিফা বিশ্বকাপে  সেরা যুব খেলোয়াড় কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3298,
+          "description": "লুকাস পোডলস্কি ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3299,
+          "description": "ল্যান্ডন ডনোভ্যান",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3300,
+          "description": "থমাস মুলার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3301,
+          "description": "কাকা",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 853,
+      "question": "২০০২ ফিফা বিশ্বকাপে  সেরা গোলরক্ষক কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3302,
+          "description": "ল্যান্ডন ডনোভ্যান",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3303,
+          "description": "রোনালদো ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3304,
+          "description": "অলিভার কান",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3305,
+          "description": "থমাস মুলার",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 854,
+      "question": "২০০২ ফিফা বিশ্বকাপে রোনালদো  মোট কয়টি গোল দিয়েছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3306,
+          "description": "৪ টি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3307,
+          "description": "৮টি",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3308,
+          "description": "৬টি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3309,
+          "description": "৭টি",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 855,
+      "question": "২০০২ ফিফা বিশ্বকাপে চ্যাম্পিয়ন হয়েছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3310,
+          "description": "তুরস্ক",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3311,
+          "description": "ব্রাজিল",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3312,
+          "description": "জার্মানি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3313,
+          "description": "ইতালি",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 856,
+      "question": "ফিফা বিশ্বকাপের ইতিহাসের সর্বশেষ বারের মতো গোল্ডেন গোল নিয়ম ব্যবহার করা হয়েছিল কত সালে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3314,
+          "description": "২০০২",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3315,
+          "description": "২০০৬",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3316,
+          "description": "২০১০",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3317,
+          "description": "২০১৪",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 857,
+      "question": "2021 সালে লিওনেল মেসি কোন ফুটবল ক্লাবে যোগ দিয়েছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3318,
+          "description": "বার্সেলোনা",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3319,
+          "description": "ম্যানচেস্টার ইউনাইটেড",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3320,
+          "description": "প্যারিস সেন্ট জার্মেই",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3321,
+          "description": "লিভারপুল",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 858,
+      "question": "ফিফা চলাকালীন সেরা গোলরক্ষক কোন পুরস্কার পান?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3322,
+          "description": "সিলভার গ্লোভস",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3323,
+          "description": "গোল্ডেন বল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3324,
+          "description": "গোল্ডেন বুট",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3325,
+          "description": "গোল্ডেন গ্লোভস",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 859,
+      "question": "ব্যালন ডি’অর মানে কি?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3326,
+          "description": "গোল্ডেন বল",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3327,
+          "description": "সিলভার বল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3328,
+          "description": "গোল্ডেন বুট",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3329,
+          "description": "সিলভার বুট",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 860,
+      "question": "লিওনেল মেসি কত ব্যালন ডি’অর পেয়েছেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3330,
+          "description": "৪ টি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3331,
+          "description": "৮টি",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3332,
+          "description": "৬টি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3333,
+          "description": "৭টি",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 861,
+      "question": "খেলার নিয়ম প্রয়োগের জন্য নিযুক্ত ব্যক্তির নাম কী?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3334,
+          "description": "গোল কীপার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3335,
+          "description": "ডিফেন্ডার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3336,
+          "description": "রেফারী",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3337,
+          "description": "আম্পায়ার",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 862,
+      "question": "কোন চ্যাম্পিয়নশিপ 1975 সাল পর্যন্ত দক্ষিণ আমেরিকান ফুটবল চ্যাম্পিয়নশিপ হিসাবে পরিচিত ছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3338,
+          "description": "কোপা দেল রে",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3339,
+          "description": "কোপা আমেরিকা",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3340,
+          "description": "উয়েফা চ্যাম্পিয়নস লীগ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3341,
+          "description": "এফএ কাপ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 863,
+      "question": "কোন দল 2021-2022 সালে প্রিমিয়ার লিগ জিতেছে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3342,
+          "description": "বার্সেলোনা",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3343,
+          "description": "ম্যানচেস্টার ইউনাইটেড",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3344,
+          "description": "প্যারিস সেন্ট জার্মেই",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3345,
+          "description": "লিভারপুল",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 864,
+      "question": " লা লিগা কোন দেশের একটি চ্যাম্পিয়নশিপ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3346,
+          "description": "স্পেন",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3347,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3348,
+          "description": "ফ্রান্স",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3349,
+          "description": "পর্তুগাল",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 865,
+      "question": "লিওনেল মেসি কোন পজিশনে খেলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3350,
+          "description": "ফরোয়ার্ড",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3351,
+          "description": "মিডফিল্ডার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3352,
+          "description": "ডিফেন্ডার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3353,
+          "description": "গোল কীপার",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 866,
+      "question": "ক্রিস্টিয়ানো রোনালদো কোন পজিশনে খেলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3354,
+          "description": "ফরোয়ার্ড",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3355,
+          "description": "মিডফিল্ডার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3356,
+          "description": "ডিফেন্ডার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3357,
+          "description": "গোল কীপার",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 867,
+      "question": " নেইমার কোন পজিশনে খেলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3358,
+          "description": "ফরোয়ার্ড",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3359,
+          "description": "মিডফিল্ডার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3360,
+          "description": "ডিফেন্ডার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3361,
+          "description": "গোল কীপার",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 868,
+      "question": " মেসুত ওজিল কোন পজিশনে খেলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3362,
+          "description": "ফরোয়ার্ড",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3363,
+          "description": "মিডফিল্ডার",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3364,
+          "description": "ডিফেন্ডার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3365,
+          "description": "গোল কীপার",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 869,
+      "question": "থমাস মুলার কোন পজিশনে খেলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3366,
+          "description": "ফরোয়ার্ড",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3367,
+          "description": "মিডফিল্ডার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3368,
+          "description": "ডিফেন্ডার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3369,
+          "description": "গোল কীপার",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 870,
+      "question": "আন্দ্রেস ইনিয়েস্তা  কোন পজিশনে খেলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3370,
+          "description": "ফরোয়ার্ড",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3371,
+          "description": "মিডফিল্ডার",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3372,
+          "description": "ডিফেন্ডার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3373,
+          "description": "গোল কীপার",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 871,
+      "question": " সার্জিও রামোস কোন পজিশনে খেলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3374,
+          "description": "ফরোয়ার্ড",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3375,
+          "description": "মিডফিল্ডার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3376,
+          "description": "ডিফেন্ডার",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3377,
+          "description": "গোল কীপার",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 872,
+      "question": "গোল্ডেন বল প্রথম কবে দেওয়া হয়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3378,
+          "description": "১৯৭২",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3379,
+          "description": "১৯৮২",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3380,
+          "description": "১৯৯২",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3381,
+          "description": "২০০২",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 873,
+      "question": "নিচের কোন খেলোয়াড় গোলরক্ষক নয়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3382,
+          "description": "লেভ ইয়াশিন",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3383,
+          "description": "মানুয়েল নয়ার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3384,
+          "description": "ইকার ক্যাসিয়াস",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3385,
+          "description": "নেইমার",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 874,
+      "question": "সর্বোচ্চ গোলদাতার পুরস্কারের নাম কী?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3386,
+          "description": "সিলভার গ্লোভস",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3387,
+          "description": "গোল্ডেন বল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3388,
+          "description": "গোল্ডেন বুট",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3389,
+          "description": "গোল্ডেন গ্লোভস",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 875,
+      "question": "ব্রাজিলের বর্তমান অধিনায়ক কে ?\r\n",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3390,
+          "description": "থিয়াগো সিলভা",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3391,
+          "description": "কাকা",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3392,
+          "description": "নেইমার ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3393,
+          "description": "ফার্নান্দিনহো",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 876,
+      "question": "আর্জেন্টিনার  বর্তমান অধিনায়ক কে ?\r\n",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3394,
+          "description": "লিওনেল মেসি",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3395,
+          "description": "সার্জিও আগুয়েরো",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3396,
+          "description": "ফ্রাঙ্কো আরমানি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3397,
+          "description": "এমিলিয়ানো মার্টিনেজ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 877,
+      "question": "জার্মানির  বর্তমান অধিনায়ক কে ?\r\n",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3398,
+          "description": "মানুয়েল নয়ার",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3399,
+          "description": "জোশুয়া কিমিচ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3400,
+          "description": "মারিও গোটজে",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3401,
+          "description": "থমাস মুলার",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 878,
+      "question": "১৯৯৮ ফিফা বিশ্বকাপ কোথায় অনুষ্ঠিত হয়েছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3402,
+          "description": "ফ্রান্স ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3403,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3404,
+          "description": " ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3405,
+          "description": "ক্রোয়েশিয়া",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 879,
+      "question": "১৯৯৮ ফিফা বিশ্বকাপে রানার-আপ হয়েছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3406,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3407,
+          "description": "ক্রোয়েশিয়া",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3408,
+          "description": "ফ্রান্স ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3409,
+          "description": " ব্রাজিল",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 880,
+      "question": "১৯৯৮ ফিফা বিশ্বকাপে তৃতীয় স্থান অর্জন করেছে  কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3410,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3411,
+          "description": " ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3412,
+          "description": "ক্রোয়েশিয়া",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3413,
+          "description": "ফ্রান্স ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 881,
+      "question": "১৯৯৮ ফিফা বিশ্বকাপে শীর্ষ গোলদাতা কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3414,
+          "description": "রোনালদিনহো",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3415,
+          "description": "ডেভর সুকার",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3416,
+          "description": "পেলে",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3417,
+          "description": "রোনালদো",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 882,
+      "question": "১৯৯৮ ফিফা বিশ্বকাপে  সেরা খেলোয়াড় কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3418,
+          "description": "ডেভর সুকার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3419,
+          "description": "মার্সেলো",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3420,
+          "description": "রোনালদো",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3421,
+          "description": "রোনালদিনহো",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 883,
+      "question": "১৯৯৮ ফিফা বিশ্বকাপে ডেভর সুকার  মোট কয়টি গোল দিয়েছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3422,
+          "description": "৪ টি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3423,
+          "description": "৮টি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3424,
+          "description": "৬টি",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3425,
+          "description": "৭টি",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 884,
+      "question": "১৯৯৮ ফিফা বিশ্বকাপে চ্যাম্পিয়ন হয়েছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3426,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3427,
+          "description": " ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3428,
+          "description": "ক্রোয়েশিয়া",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3429,
+          "description": "ফ্রান্স ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 885,
+      "question": "১৯৯৮ ফিফা বিশ্বকাপে ফ্রান্স ফাইনালে ব্রাজিলকে  কয় গোলে পরাজিত করে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3430,
+          "description": "১",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3431,
+          "description": "২",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3432,
+          "description": "৩",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3433,
+          "description": "৪",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 886,
+      "question": "কোন বিশ্বকাপের মধ্য দিয়ে ফ্রান্স প্রথমবারের মত বিশ্বকাপ জয়ের স্বাদ পায়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3434,
+          "description": "১৯৯৪",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3435,
+          "description": "২০০২",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3436,
+          "description": "১৯৯৮",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3437,
+          "description": "২০০৬",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 887,
+      "question": "১৯৯৪ ফিফা বিশ্বকাপ কোথায় অনুষ্ঠিত হয়েছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3438,
+          "description": "বুলগেরিয়া",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3439,
+          "description": " সুইডেন",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3440,
+          "description": "ইতালি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3441,
+          "description": "মার্কিন যুক্তরাষ্ট্র",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 888,
+      "question": "১৯৯৪ ফিফা বিশ্বকাপে রানার-আপ হয়েছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3442,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3443,
+          "description": "বুলগেরিয়া",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3444,
+          "description": " সুইডেন",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3445,
+          "description": "ইতালি",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 889,
+      "question": "১৯৯৪ ফিফা বিশ্বকাপে তৃতীয় স্থান অর্জন করেছে  কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3446,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3447,
+          "description": "বুলগেরিয়া",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3448,
+          "description": " সুইডেন",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3449,
+          "description": "ইতালি",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 890,
+      "question": "১৯৯৪ ফিফা বিশ্বকাপে শীর্ষ গোলদাতা কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3450,
+          "description": "রোনালদো",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3451,
+          "description": "ওলেগ সালেঙ্কো",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3452,
+          "description": "রোমারিও",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3453,
+          "description": "রোনালদিনহো",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 891,
+      "question": "১৯৯৪ ফিফা বিশ্বকাপে  সেরা খেলোয়াড় কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3454,
+          "description": "রোনালদো",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3455,
+          "description": "ওলেগ সালেঙ্কো",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3456,
+          "description": "রোমারিও",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3457,
+          "description": "রোনালদিনহো",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 892,
+      "question": "১৯৯৪ ফিফা বিশ্বকাপে ওলেগ সালেঙ্কো  মোট কয়টি গোল দিয়েছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3458,
+          "description": "৪ টি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3459,
+          "description": "৮টি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3460,
+          "description": "৬টি",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3461,
+          "description": "৭টি",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 893,
+      "question": "১৯৯৪ ফিফা বিশ্বকাপে চ্যাম্পিয়ন হয়েছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3462,
+          "description": "ব্রাজিল",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3463,
+          "description": "বুলগেরিয়া",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3464,
+          "description": " সুইডেন",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3465,
+          "description": "ইতালি",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 894,
+      "question": "১৯৯০ ফিফা বিশ্বকাপ কোথায় অনুষ্ঠিত হয়েছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3466,
+          "description": "ইতালি",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3467,
+          "description": " জার্মানি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3468,
+          "description": "আর্জেন্টিনা",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3469,
+          "description": "ইংল্যান্ড",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 895,
+      "question": "১৯৯০ ফিফা বিশ্বকাপে রানার-আপ হয়েছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3470,
+          "description": "ইংল্যান্ড",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3471,
+          "description": "আর্জেন্টিনা",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3472,
+          "description": " জার্মানি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3473,
+          "description": "ইতালি",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 896,
+      "question": "১৯৯০ ফিফা বিশ্বকাপে তৃতীয় স্থান অর্জন করেছে  কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3474,
+          "description": "ইতালি",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3475,
+          "description": " জার্মানি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3476,
+          "description": "আর্জেন্টিনা",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3477,
+          "description": "ইংল্যান্ড",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 897,
+      "question": "১৯৯০ ফিফা বিশ্বকাপে শীর্ষ গোলদাতা কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3478,
+          "description": "ওলেগ সালেঙ্কো",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3479,
+          "description": "রোনালদো ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3480,
+          "description": "সালভাতোরে স্কিলাচি",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3481,
+          "description": "ডেভর সুকার",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 898,
+      "question": "১৯৯০ ফিফা বিশ্বকাপে  সেরা খেলোয়াড় কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3482,
+          "description": "ওলেগ সালেঙ্কো",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3483,
+          "description": "রোনালদো ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3484,
+          "description": "সালভাতোরে স্কিলাচি",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3485,
+          "description": "ডেভর সুকার",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 899,
+      "question": "১৯৯০ ফিফা বিশ্বকাপে সালভাতোরে স্কিলাচি  মোট কয়টি গোল দিয়েছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3486,
+          "description": "৪ টি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3487,
+          "description": "৮টি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3488,
+          "description": "৬টি",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3489,
+          "description": "৭টি",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 900,
+      "question": "১৯৯০ ফিফা বিশ্বকাপে চ্যাম্পিয়ন হয়েছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3490,
+          "description": "ইতালি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3491,
+          "description": " জার্মানি",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3492,
+          "description": "আর্জেন্টিনা",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3493,
+          "description": "ইংল্যান্ড",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 901,
+      "question": "১৯৯০ ফিফা বিশ্বকাপে  পশ্চিম জার্মানি ফাইনালে  আর্জেন্টিনাকে কয় গোলে পরাজিত করে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3494,
+          "description": "১",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3495,
+          "description": "২",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3496,
+          "description": "৩",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3497,
+          "description": "৪",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 902,
+      "question": "কোন বিশ্বকাপে  জার্মান দল সর্বশেষবারের মত বিভক্ত জার্মানির প্রতিনিধিত্ব করে?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3498,
+          "description": "১৯৯৮",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3499,
+          "description": "১৯৯৪",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3500,
+          "description": "১৯৯০",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3501,
+          "description": "১৯৮৬",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 903,
+      "question": "১৯৮৬ ফিফা বিশ্বকাপ কোথায় অনুষ্ঠিত হয়েছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3502,
+          "description": "বেলজিয়াম",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3503,
+          "description": "মেক্সিকো",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3504,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3505,
+          "description": "ফ্রান্স",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 904,
+      "question": "১৯৮৬ ফিফা বিশ্বকাপে রানার-আপ হয়েছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3506,
+          "description": "বেলজিয়াম",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3507,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3508,
+          "description": "ফ্রান্স",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3509,
+          "description": " জার্মানি",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 905,
+      "question": "১৯৮৬ ফিফা বিশ্বকাপে তৃতীয় স্থান অর্জন করেছে  কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3510,
+          "description": "বেলজিয়াম",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3511,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3512,
+          "description": "ফ্রান্স",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3513,
+          "description": " জার্মানি",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 906,
+      "question": "১৯৮৬ ফিফা বিশ্বকাপে শীর্ষ গোলদাতা কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3514,
+          "description": "দিয়েগো মারাদোনা",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3515,
+          "description": " গ্যারি লিনেকার",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3516,
+          "description": "সালভাতোরে স্কিলাচি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3517,
+          "description": "ওলেগ সালেঙ্কো",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 907,
+      "question": "১৯৮৬ ফিফা বিশ্বকাপে  সেরা খেলোয়াড় কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3518,
+          "description": "সালভাতোরে স্কিলাচি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3519,
+          "description": "ওলেগ সালেঙ্কো",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3520,
+          "description": " গ্যারি লিনেকার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3521,
+          "description": "দিয়েগো মারাদোনা",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 908,
+      "question": "১৯৮৬ ফিফা বিশ্বকাপে  গ্যারি লিনেকার  মোট কয়টি গোল দিয়েছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3522,
+          "description": "৪ টি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3523,
+          "description": "৮টি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3524,
+          "description": "৬টি",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3525,
+          "description": "৭টি",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 909,
+      "question": "১৯৮৬ ফিফা বিশ্বকাপে চ্যাম্পিয়ন হয়েছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3526,
+          "description": "বেলজিয়াম",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3527,
+          "description": "আর্জেন্টিনা ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3528,
+          "description": "ফ্রান্স",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3529,
+          "description": " জার্মানি",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 910,
+      "question": "১৯৮৬ ফিফা বিশ্বকাপে ফেয়ার প্লে পুরষ্কার অর্জন করেছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3530,
+          "description": "বেলজিয়াম",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3531,
+          "description": "ফ্রান্স",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3532,
+          "description": " জার্মানি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3533,
+          "description": "ব্রাজিল",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 911,
+      "question": " \"গোল্ডেন বুট\"  পুরস্কার সর্বপ্রথম কত সালে প্রদান করা হয়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3534,
+          "description": "১৯৯৪",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3535,
+          "description": "১৯৩০ সালে",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3536,
+          "description": "২০০২",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3537,
+          "description": "১৯৭০",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 912,
+      "question": " \" গোল্ডেন গ্লাভস্\" পুরস্কার সর্বপ্রথম কত সালে প্রদান করা হয়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3538,
+          "description": "২০০২",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3539,
+          "description": "১৯৭০",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3540,
+          "description": "১৯৯৪",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3541,
+          "description": "১৯৩০",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 913,
+      "question": "   ফিফা ফেয়ার প্লে ট্রফি সর্বপ্রথম কত সালে প্রদান করা হয়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3542,
+          "description": "১৯৭০",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3543,
+          "description": "১৯৯৪",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3544,
+          "description": "১৯৭০",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3545,
+          "description": "২০০২",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 914,
+      "question": "  ম‍্যান্ অফ্ দ‍্য ম‍্যাচ্ পুরস্কার সর্বপ্রথম কত সালে প্রদান করা হয়?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3546,
+          "description": "১৯৩০",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3547,
+          "description": "১৯৭০",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3548,
+          "description": "১৯৯৪",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3549,
+          "description": "২০০২",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 915,
+      "question": "১৯৮২ ফিফা বিশ্বকাপ কোথায় অনুষ্ঠিত হয়েছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3550,
+          "description": " জার্মানি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3551,
+          "description": "স্পেন",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3552,
+          "description": "ফ্রান্স",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3553,
+          "description": "পোল্যান্ড",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 916,
+      "question": "১৯৮২ ফিফা বিশ্বকাপে রানার-আপ হয়েছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3554,
+          "description": "ইতাালি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3555,
+          "description": " জার্মানি",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3556,
+          "description": "ফ্রান্স",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3557,
+          "description": "পোল্যান্ড",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 917,
+      "question": "১৯৮২ ফিফা বিশ্বকাপে তৃতীয় স্থান অর্জন করেছে  কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3558,
+          "description": "ইতাালি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3559,
+          "description": " জার্মানি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3560,
+          "description": "ফ্রান্স",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3561,
+          "description": "পোল্যান্ড",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 918,
+      "question": "১৯৮২ ফিফা বিশ্বকাপে শীর্ষ গোলদাতা কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3562,
+          "description": " গ্যারি লিনেকার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3563,
+          "description": "পাওলো রোসি",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3564,
+          "description": "সালভাতোরে স্কিলাচি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3565,
+          "description": "ওলেগ সালেঙ্কো",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 919,
+      "question": "১৯৮২ ফিফা বিশ্বকাপে  সেরা খেলোয়াড় কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3566,
+          "description": "সালভাতোরে স্কিলাচি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3567,
+          "description": "ওলেগ সালেঙ্কো",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3568,
+          "description": " গ্যারি লিনেকার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3569,
+          "description": "পাওলো রোসি",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 920,
+      "question": "১৯৮২ ফিফা বিশ্বকাপে  পাওলো রোসি  মোট কয়টি গোল দিয়েছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3570,
+          "description": "২",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3571,
+          "description": "৪",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3572,
+          "description": "৫",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3573,
+          "description": "৬",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 921,
+      "question": "১৯৮২ ফিফা বিশ্বকাপে চ্যাম্পিয়ন হয়েছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3574,
+          "description": "ইতাালি",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3575,
+          "description": " জার্মানি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3576,
+          "description": "ফ্রান্স",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3577,
+          "description": "পোল্যান্ড",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 922,
+      "question": "১৯৭৮ ফিফা বিশ্বকাপ কোথায় অনুষ্ঠিত হয়েছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3578,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3579,
+          "description": " আর্জেন্টিনা",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3580,
+          "description": "ইতালি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3581,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 923,
+      "question": "১৯৭৮ ফিফা বিশ্বকাপে রানার-আপ হয়েছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3582,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3583,
+          "description": " আর্জেন্টিনা",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3584,
+          "description": "ইতালি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3585,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 924,
+      "question": "১৯৭৮ ফিফা বিশ্বকাপে তৃতীয় স্থান অর্জন করেছে  কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3586,
+          "description": "ব্রাজিল",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3587,
+          "description": " আর্জেন্টিনা",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3588,
+          "description": "ইতালি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3589,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 925,
+      "question": "১৯৭৮ ফিফা বিশ্বকাপে শীর্ষ গোলদাতা কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3590,
+          "description": "সালভাতোরে স্কিলাচি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3591,
+          "description": "ওলেগ সালেঙ্কো",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3592,
+          "description": "ম্যারিও ক্যাম্পেস",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3593,
+          "description": " গ্যারি লিনেকার",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 926,
+      "question": "১৯৭৮ ফিফা বিশ্বকাপে  সেরা খেলোয়াড় কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3594,
+          "description": " গ্যারি লিনেকার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3595,
+          "description": "ম্যারিও ক্যাম্পেস",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3596,
+          "description": "সালভাতোরে স্কিলাচি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3597,
+          "description": "ওলেগ সালেঙ্কো",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 927,
+      "question": "১৯৭৮ ফিফা বিশ্বকাপে  ম্যারিও ক্যাম্পেস  মোট কয়টি গোল দিয়েছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3598,
+          "description": "২",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3599,
+          "description": "৪",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3600,
+          "description": "৫",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3601,
+          "description": "৬",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 928,
+      "question": "১৯৭৮ ফিফা বিশ্বকাপে চ্যাম্পিয়ন হয়েছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3602,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3603,
+          "description": " আর্জেন্টিনা",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3604,
+          "description": "ইতালি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3605,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 929,
+      "question": " বিশ্বকাপের কোন আসরে সর্বপ্রথম টাইব্রেকার চালু হয়েছিল ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3606,
+          "description": "১৯৭৮",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3607,
+          "description": "১৯৮২",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3608,
+          "description": "১৯৮৬",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3609,
+          "description": "১৯৯০",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 930,
+      "question": " কত সালে আর্জেন্টিনা  বিশ্বকাপ ফুটবলের ১ম শিরোপা অর্জন করে ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3610,
+          "description": "১৯৭৮",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3611,
+          "description": "১৯৮২",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3612,
+          "description": "১৯৮৬",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3613,
+          "description": "১৯৯০",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 931,
+      "question": "১৯৭৮ ফিফা বিশ্বকাপে ফেয়ার প্লে পুরষ্কার অর্জন করেছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3614,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3615,
+          "description": " আর্জেন্টিনা",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3616,
+          "description": "ইতালি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3617,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 932,
+      "question": "১৯৭৮ ফিফা বিশ্বকাপে  সেরা যুব খেলোয়াড় কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3618,
+          "description": "সালভাতোরে স্কিলাচি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3619,
+          "description": "ওলেগ সালেঙ্কো",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3620,
+          "description": " গ্যারি লিনেকার",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3621,
+          "description": "আন্তোনিও ক্যাব্রিনি",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 933,
+      "question": "১৯৭৪ ফিফা বিশ্বকাপ কোথায় অনুষ্ঠিত হয়েছিল?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3622,
+          "description": " জার্মানি",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3623,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3624,
+          "description": "পোল্যান্ড",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3625,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 934,
+      "question": "১৯৭৪ ফিফা বিশ্বকাপে রানার-আপ হয়েছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3626,
+          "description": " জার্মানি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3627,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3628,
+          "description": "পোল্যান্ড",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3629,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 935,
+      "question": "১৯৭৪ ফিফা বিশ্বকাপে তৃতীয় স্থান অর্জন করেছে  কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3630,
+          "description": " জার্মানি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3631,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3632,
+          "description": "পোল্যান্ড",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3633,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 936,
+      "question": "১৯৭৪ ফিফা বিশ্বকাপে শীর্ষ গোলদাতা কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3634,
+          "description": " ভোয়াদিস্লাভ জমুদা",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3635,
+          "description": "জর্জ লাতো ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3636,
+          "description": "আন্তোনিও ক্যাব্রিনি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3637,
+          "description": "সালভাতোরে স্কিলাচি",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 937,
+      "question": "১৯৭৪ ফিফা বিশ্বকাপে  সেরা খেলোয়াড় কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3638,
+          "description": "আন্তোনিও ক্যাব্রিনি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3639,
+          "description": "সালভাতোরে স্কিলাচি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3640,
+          "description": "জোহান ক্রুইফ",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3641,
+          "description": " ভোয়াদিস্লাভ জমুদা",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 938,
+      "question": "১৯৭৪ ফিফা বিশ্বকাপে  জর্জ লাতো  মোট কয়টি গোল দিয়েছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3642,
+          "description": "৩",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3643,
+          "description": "৪",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3644,
+          "description": "৭",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3645,
+          "description": "৫",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 939,
+      "question": "১৯৭৪ ফিফা বিশ্বকাপে চ্যাম্পিয়ন হয়েছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3646,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3647,
+          "description": "পোল্যান্ড",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3648,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3649,
+          "description": " জার্মানি",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": 940,
+      "question": "১৯৭৪ ফিফা বিশ্বকাপে ফেয়ার প্লে পুরষ্কার অর্জন করেছে কোন দেশ?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3650,
+          "description": " জার্মানি",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3651,
+          "description": "নেদারল্যান্ডস",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3652,
+          "description": "পোল্যান্ড",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3653,
+          "description": "ব্রাজিল",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": 941,
+      "question": "১৯৭৪ ফিফা বিশ্বকাপে  সেরা যুব খেলোয়াড় কে ছিলেন?",
+      "quizType": 1,
+      "questionScore": 5,
+      "imageLocation": "https://nagadapi.shadhinquiz.com//uploads/quizImages/",
+      "choices": [
+        {
+          "choiceId": 3654,
+          "description": "জর্জ লাতো",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3655,
+          "description": " ভোয়াদিস্লাভ জমুদা",
+          "isCorrect": true
+        },
+        {
+          "choiceId": 3656,
+          "description": "আন্তোনিও ক্যাব্রিনি",
+          "isCorrect": false
+        },
+        {
+          "choiceId": 3657,
+          "description": "সালভাতোরে স্কিলাচি",
           "isCorrect": false
         }
       ]

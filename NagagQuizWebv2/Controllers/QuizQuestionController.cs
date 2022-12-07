@@ -94,7 +94,7 @@ namespace NagagQuizWebv2.Controllers
             }
             return View("Index"); ;
         }
-        public async Task<IActionResult> GetQuiz()
+        public IActionResult GetQuiz()
         {
             List<QuizQuestionModel> aList = new List<QuizQuestionModel>();
 
@@ -141,10 +141,10 @@ namespace NagagQuizWebv2.Controllers
                     ViewBag.Qmark = questionScore;
                     break;
                 }
-                ViewBag.quentions = ViewQuestionList;
+                ViewBag.quentions2 = ViewQuestionList;
                 ViewBag.quizTime = Convert.ToString(DateTime.Now);
             }
-            return View("Index"); ;
+            return View(); ;
         }
         //[HttpGet]
         //public async Task<IActionResult> Index()

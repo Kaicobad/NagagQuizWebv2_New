@@ -1,7 +1,7 @@
 ﻿@using NagagQuizWebv2.Viewmodels
 @{
     Layout = "_QuizLayout2";
-    var Questions = ViewBag.quentions;
+    var Questions = ViewBag.quentions2;
 }
 <div class="counter" style="margin-top: 15px;" id="counterdiv">
     <ul style="padding-left:0px">
@@ -23,7 +23,6 @@
         </li>
     </ul>
 </div>
-s
 @{
     int indx = 0;
     string displayValue = "";
@@ -95,24 +94,24 @@ s
 
 @section Scripts{
     <script>
-        var subQu = [];
-        $(document).ready(function () {
-            var currentProgress = 0;
-            var timeleft = 22;
-            var bar = document.getElementById("progress-div");
-            bar.style.width = currentProgress + "%";
-            var downloadTimer = setInterval(function () {
-                if (timeleft <= 0) {
-                    clearInterval(downloadTimer);
-                    SubmitMatchResult();
-                } else {
-                    currentProgress = currentProgress + 4;
-                    bar.style.width = currentProgress + "%"
-                    document.getElementById("countdown").innerHTML = "00:" + timeleft;
-                }
-                timeleft -= 1;
-            }, 1000);
-        });
+        //var subQu = [];
+        //$(document).ready(function () {
+        //    var currentProgress = 0;
+        //    var timeleft = 22;
+        //    var bar = document.getElementById("progress-div");
+        //    bar.style.width = currentProgress + "%";
+        //    var downloadTimer = setInterval(function () {
+        //        if (timeleft <= 0) {
+        //            clearInterval(downloadTimer);
+        //            SubmitMatchResult();
+        //        } else {
+        //            currentProgress = currentProgress + 4;
+        //            bar.style.width = currentProgress + "%"
+        //            document.getElementById("countdown").innerHTML = "00:" + timeleft;
+        //        }
+        //        timeleft -= 1;
+        //    }, 1000);
+        //});
 
         function SubmitAnserV2(index, choiceId, isCorrect, questionId, questionlength, Qmark) {
             var newSub = {

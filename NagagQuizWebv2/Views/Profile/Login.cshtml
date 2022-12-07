@@ -1,0 +1,81 @@
+﻿@{
+    Layout = "_LayoutTest";
+}
+
+<div class="container-fluid" style="margin-top:80px;">
+    <div class="text-center" style="padding:20px 15px">
+        <img src="~/pagecontents/others/foodball star icon_genarel.png" />
+        <h4 class="mt-3" style="font-size:20px;color:rgba(236, 6, 19, 1);font-weight:600">ফুটবল স্টার</h4>
+        <p style="font-size:14px;color:rgba(102, 102, 102, 1);margin-top:5px">
+            বিশ্বকাপের উন্মাদনায় আপনাকে    স্বাগতম। নগদ একাউন্ট নাম্বার দিয়ে খেলা শুরু করুন।
+        </p>
+
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="inputGroup-sizing-default" style="background-color: white;">
+                    <img src="~/pagecontents/icon/call.svg" />
+                </span>
+            </div>
+            <input id="phnNumber" onkeypress="return isNumber(event)" placeholder="01*********" type="text" class="form-control" aria-label="Default" aria-describedby="inputGroup-sizing-default">
+
+
+        </div>
+
+        <p id="errmsg" style="display:none;text-align: center;margin-bottom: 10px;color: indianred;"></p>
+        <a onclick="MakeLogin()"
+           style="background-color:rgba(236, 6, 19, 1);
+            color:white;
+            padding:10px;border-radius:8px;
+            width:100%"
+           class="btn mt-3">শুরু করুন</a>
+    </div>
+    <div class="text-center">
+        উপরের বাটন ক্লিক করার মাধ্যেমে <a data-bs-toggle="modal" data-bs-target="#exampleModal" style="text-decoration: underline;color: gray;"><b>শর্তাবলি</b></a> তে সম্মতি দিচ্ছি
+
+        @* <a href="#" id="TC" style="text-decoration: underline;color: gray;">
+        উপরের বাটন ক্লিক করার মাধ্যেমে শর্তাবলি তে সম্মতি দিচ্ছি
+        </a>*@
+
+    </div>
+</div>
+
+<!-- Add Firebase Analytics-->
+
+<!--End Firebase Analytics-->
+<script>
+    function validation() {
+        let msisdn = $('#phnNumber').val();
+        let fthree = msisdn.substring(0, 3)
+
+        if (msisdn == "" || msisdn == undefined || isNaN(msisdn)) {
+            $('#errmsg').show();
+            $('#errmsg').text("সঠিক মোবাইল নাম্বার প্রদান করুন ");
+            return false;
+        }
+        else if ((fthree != "013") && fthree != "014" && fthree != "015" && fthree != "016" && fthree != "017" && fthree != "018" && fthree != "019") {
+            $('#errmsg').show();
+            $('#errmsg').text("সঠিক মোবাইল নাম্বার প্রদান করুন ");
+        }
+        else if (msisdn.length != 11) {
+            $('#errmsg').show();
+            $('#errmsg').text("আপনার ১১ ডিজিটের সঠিক নাম্বারটি প্রদান করুন");
+            return false;
+        }
+        else {
+            return true;
+        }
+    }
+
+    function MakeLogin() {
+        $('#errmsg').hide();
+        if (!validation()) {
+            return;
+        }
+        let msisdn = $('#phnNumber').val();
+        var url = '@Url.Action("CreateUser", "Signin")';
+        url += '?mobileNumber=' + msisdn;
+        window.location.href = url;
+    }
+
+</script>
+

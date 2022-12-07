@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using NagagQuizWebv2.Repository;
+using Newtonsoft.Json;
+using RestSharp;
 using System.Threading.Tasks;
 
 namespace NagagQuizWebv2.Controllers
@@ -25,7 +27,39 @@ namespace NagagQuizWebv2.Controllers
             }
             return View();
         }
+        public async Task<IActionResult> Login()
+        {
+            var token = HttpContext.Session.GetString("Token");
+            var Session = HttpContext.Session;
+            if (!string.IsNullOrEmpty(token))
+            {
+                Session.Remove(token);
+                Session.Remove("UserName");
+                Session.Remove("Mobile");
+            }
+            return View();
+        }
 
+        public async Task<IActionResult> NLogin()
+        {
+            return View();
+        }
+        public async Task<IActionResult> QScore()
+        {
+            var client = new RestClient("https://nagadapi.shadhinquiz.com/api/Welcome");
+
+            var request = new RestRequest(Method.GET);
+
+            request.OnBeforeDeserialization = resp => { resp.ContentType = "application/json"; };
+
+            var result = client.Execute(request);
+
+            var rs = JsonConvert.DeserializeObject<object>(result.Content);
+
+            ViewBag.Score = result.Content;
+
+            return View();
+        } 
 
 
         public async Task<IActionResult> Details()

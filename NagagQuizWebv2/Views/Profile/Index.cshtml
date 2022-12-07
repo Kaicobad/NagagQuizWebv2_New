@@ -155,13 +155,13 @@
         {
             return;
         }
-        //var capdata = grecaptcha.getResponse()
-        ////var capval = validateCP(capdata)
-        //if (capdata == "") {
-        //    $('#errmsg').show();
-        //    $('#errmsg').text("Captcha validation failed")
-        //    return;
-        //}
+        var capdata = grecaptcha.getResponse()
+        //var capval = validateCP(capdata)
+        if (capdata == "") {
+            $('#errmsg').show();
+            $('#errmsg').text("Captcha validation failed")
+            return;
+        }
         let msisdn = $('#phnNumber').val();
         var url = '@Url.Action("CreateUser", "Signin")';
         url += '?mobileNumber=' + msisdn;
