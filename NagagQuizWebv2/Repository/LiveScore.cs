@@ -30,7 +30,9 @@ namespace NagagQuizWebv2.Repository
                 client.DefaultRequestHeaders.Clear();
                 //client.DefaultRequestHeaders.Add("Authorization", "Bearer " + token);
                 client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
-                var url = string.Format("https://apiv2.allsportsapi.com/football/?met=Livescore&APIkey=7653e6c951f05d491c8f6de181739dac550d0c64ad1bfc9fb49feb453e421d03");
+                //var url = string.Format("https://apiv2.allsportsapi.com/football/?met=Livescore&APIkey=7653e6c951f05d491c8f6de181739dac550d0c64ad1bfc9fb49feb453e421d03");
+                var url = string.Format("https://apiv2.allsportsapi.com/football/?met=Livescore&APIkey=4e9359ac625f9c9014724ce3a2106fa6bb5caecb1cb3e60ed33c508e20a87788");
+
                 var httpResponse = await client.GetAsync(url);
                 if (httpResponse.IsSuccessStatusCode)
                 {
